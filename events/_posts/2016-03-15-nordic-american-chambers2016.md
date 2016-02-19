@@ -19,7 +19,7 @@ published: true
 
 ### SelectUSA Presentation at Nordic-American Chambers Event
 
-On March 15, members of the Nordic-American chambers (the Swedish-American Chamber of Commerce, the Norwegian-American Chamber of Commerce, the Finnish-American Chamber of Commerce, and the American-Danish Business Council) will host an event at the Embassy of Denmark in Washington, D.C. Titled "Creating Transatlantic Business Success - The Nordic Perspective," the program is intended for companies in the Nordic region looking to expand into or enter the U.S. market and U.S. companies looking to export. International Investment Specialist Alev Günay will deliver a presentation, briefing attendees on SelectUSA services. In addition, companies that have worked with SelectUSA (and the U.S. Commercial Service) will share their experience during a case studies discussion.
+On March 15, members of the Nordic-American chambers (the Swedish-American Chamber of Commerce, the Norwegian-American Chamber of Commerce, the Finnish-American Chamber of Commerce, and the American-Danish Business Council) and Finpro will host an event at the Embassy of Denmark in Washington, D.C. Titled "Creating Transatlantic Business Success - The Nordic Perspective," the program is intended for companies in the Nordic region looking to expand into or enter the U.S. market and U.S. companies looking to export. International Investment Specialist Alev Günay will deliver a presentation, briefing attendees on SelectUSA services. In addition, companies that have worked with SelectUSA (and the U.S. Commercial Service) will share their experience during a case studies discussion.
 
 ---
 
