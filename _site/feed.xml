@@ -2,14 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Feb 2016 11:40:59 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Feb 2016 11:40:59 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Mon, 04 Apr 2016 09:46:12 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2016 09:46:12 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
   
   <item>
     <title>SelectUSA Investment Summit</title>
     <link>/2016-summit.html</link>
     <pubDate>Mon, 20 Jun 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>French-American Business Week</title>
+    <link>/events/fabw2016.html</link>
+    <pubDate>Wed, 18 May 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     
@@ -28,9 +35,44 @@
   </item>
     
   <item>
+    <title>eCommerce Seminar</title>
+    <link>/events/ecommerce-seminar.html</link>
+    <pubDate>Fri, 15 Apr 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Know Before You Go Call</title>
+    <link>/events/kbyg-concall3.html</link>
+    <pubDate>Tue, 12 Apr 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
     <title>IEDC FED Forum 2016</title>
     <link>/events/iedc-fed-forum2016.html</link>
     <pubDate>Sun, 03 Apr 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Biopharma FDI Promotion Event</title>
+    <link>/events/cskorea-biopharma-fdi-2016.html</link>
+    <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Raleigh USEAC Roundtable</title>
+    <link>/events/useac-roundtable-march2016.html</link>
+    <pubDate>Mon, 28 Mar 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Understand the Latest FDI Numbers Call</title>
+    <link>/events/unctad-concall.html</link>
+    <pubDate>Wed, 23 Mar 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     
@@ -49,9 +91,37 @@
   </item>
     
   <item>
+    <title>Nordic-American Chambers Presentation</title>
+    <link>/events/nordic-american-chambers2016.html</link>
+    <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Know Before You Go Call</title>
+    <link>/events/kbyg-concall2.html</link>
+    <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>SXSW 2016</title>
+    <link>/events/sxsw2016.html</link>
+    <pubDate>Mon, 14 Mar 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
     <title>Kingston Smith Seminar</title>
     <link>/events/selectusa-in-uk-seminar1.html</link>
     <pubDate>Wed, 09 Mar 2016 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>CALED Webinar</title>
+    <link>/events/caled-webinar.html</link>
+    <pubDate>Wed, 02 Mar 2016 00:00:00 -0500</pubDate>
     <location></location>
   </item>
     
