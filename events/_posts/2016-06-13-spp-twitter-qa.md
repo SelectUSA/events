@@ -25,7 +25,7 @@ Questions include:
 
 * **Monday:** _#SelectUSASummit exhibitors, what’s a surprising fact about your U.S. state, community, or region?_
 * **Tuesday** _Returning attendees, what advice would you give to #econdev organizations new to the #SelectUSASummit?_
-* **Wednesday** _What #SelectUSASummit speaker/panel (besides @POTUS) are you most excited for? (http://selectusasummit.us/agenda-at-a-glance/)_
+* **Wednesday** _What #SelectUSASummit speaker/panel (besides @POTUS) are you most excited for? [http://selectusasummit.us/agenda-at-a-glance/]_
 * **Thursday** _How is the #SelectUSASummit theme of #innovation important to your company or US community?_
 * **Friday** _#SelectUSASummit exhibitors, what's the best reason for participants to visit your booth on Monday?_
 
