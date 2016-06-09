@@ -29,6 +29,8 @@ Questions include:
 * **Thursday** _How is the #SelectUSASummit theme of #innovation important to your company or US community?_
 * **Friday** _#SelectUSASummit exhibitors, what's the best reason for participants to visit your booth on Monday?_
 
-![Contact/Information] To join the chat, mention (_message_) Secretary Pritzker at [**@PennyPritzker**](https://twitter.com/PennyPritzker).
+------
+
+To join the chat, mention (_message_) Secretary Pritzker at [**@PennyPritzker**](https://twitter.com/PennyPritzker).
 
 _Follow us on Twitter at [**@SelectUSA**](https://twitter.com/SelectUSA)!_
