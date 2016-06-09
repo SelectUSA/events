@@ -1,11 +1,11 @@
 ---
-permalink: "events/fdi-data-webinar.html
+permalink: "events/fdi-data-webinar.html"
 layout: sidebar
 title: FDI Data Webinar
 date-display-start: June 14, 2016
 date-display-end: June 14, 2016
-calendar-start: 06-14-2016
-calendar-end: 06-14-2016
+calendar-start: 2016-06-14
+calendar-end: 2016-06-14
 location-value: Webinar
 location-type: Online
 section: events
