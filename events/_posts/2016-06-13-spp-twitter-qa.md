@@ -19,7 +19,7 @@ published: true
 
 ### Twitter Q&A with Secretary Penny Pritzker
 
-Secretary of Commerce Penny Pritzker will hold a “reverse Twitter Q&A” the week before the 2016 SelectUSA Investment Summit, June 13-17. Each day, she will tweet a question for Summit exhibitors and attendees and then retweet many of the answers. This is a great opportunity to highlight your organization to the Secretary’s 47,000 Twitter followers. Remember to use the hashtag #SelectUSASummit in your answers!
+Secretary of Commerce Penny Pritzker will hold a “reverse Twitter Q&A” the week before the 2016 SelectUSA Investment Summit, June 13-17. Each day at 1:00 p.m., she will tweet a question for Summit exhibitors and attendees and then retweet many of the answers. This is a great opportunity to highlight your organization to the Secretary’s 47,000 Twitter followers. Remember to use the hashtag #SelectUSASummit in your answers!
 
 Questions include:
 
