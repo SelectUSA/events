@@ -1,7 +1,7 @@
 ---
 permalink: "events/ukti-event.html"
 layout: sidebar
-title: UKTI and Friends
+title: UKTI Event
 date-display-start: June 21, 2016
 date-display-end: June 21, 2016
 calendar-start: 2016-06-21
