@@ -32,4 +32,4 @@ On June 21, during London Technology Week, UK Trade & Investment (UKTI) and Wils
 
 ![Location](https://google.github.io/material-design-icons/action/svg/design/ic_room_24px.svg "Location") WeWork Moorgate, 1 Fore St., London EC2Y 5EJ
 
-![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information and registration, please visit the event [website](http://reactionserver.mofo.com/rs/vm.ashx?ct=24F76F1DD1E040A9CCDD89AED22C981AD9F555B2DF8E0BD15EE5636069FFCB1CDB7A3A9C2), or contact Jennifer Kane ([jennifer.kane@trade.gov](mailto:jennifer.kane@trade.gov)).
+![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information and registration, please visit the event [website](https://www.eventbrite.co.uk/e/americas-hottest-tech-hubs-third-annual-evening-with-ukti-usa-and-friends-tickets-25170736350), or contact Jennifer Kane ([jennifer.kane@trade.gov](mailto:jennifer.kane@trade.gov)).
