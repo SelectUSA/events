@@ -22,7 +22,7 @@ published: true
 
 We are happy to announce that the date for our second Taiwan Road Show is set: September 28-30. This is a unique opportunity for U.S. economic development organizations to meet with representatives from Taiwan's IT, semiconductor, and renewable energy industries, and promote their locations to Taiwan companies. 
 
-Taiwan is the United States' ninght-largest trading partner and the Road Show is designed to maximize this relationship. In fact, the first day of the show coincides with U.S. Business Day in Taipei, an event organized by Taiwan's Bureau of Foreign Trade of the Ministry of Economic Affairs and focused on promoting bilateral trade and facilitating investment in the United States.
+Taiwan is the United States' ninth-largest trading partner and the Road Show is designed to maximize this relationship. In fact, the first day of the show coincides with U.S. Business Day in Taipei, an event organized by Taiwan's Bureau of Foreign Trade of the Ministry of Economic Affairs and focused on promoting bilateral trade and facilitating investment in the United States.
 
 ![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please contact John McKiel ([john.mckiel@trade.gov](mailto:john.mckiel@trade.gov)) in Washington, D.C. or Jackie Hong ([jackie.hong@trade.gov](mailto:jackie.hong@trade.gov))in Taipei.
 
