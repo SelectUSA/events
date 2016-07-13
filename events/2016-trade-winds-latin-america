@@ -1,0 +1,29 @@
+---
+permalink: "events/2016-trade-winds-latin-america.html"
+layout: sidebar
+title: Trade Winds Latin America
+date-display-start: September 07
+date-display-end: 09, 2016
+calendar-start: 2016-09-07
+calendar-end: 2016-09-09
+location-value: Santiago, Chile
+location-type: International
+section: events
+published: true
+---
+
+# {{ page.title}}
+
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") September 7-9, 2016
+
+![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
+
+### Trade Winds—Latin America Business Forum
+
+Join us for Trade Winds to connect global investors in Latin America. The Trade Winds Latin America Business Forum is a great opportunity  for economic development organizations  to  connect with business leaders, government  officials, and global investors.  
+
+
+![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please contact Commercial Specialist, ([veronica.pinto@trade.gov]Veronica Pinto(mailto:veronica.pinto@trade.gov)).
+
+---
+
