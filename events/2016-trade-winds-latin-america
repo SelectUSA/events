@@ -1,5 +1,7 @@
 ---
 permalink: "events/2016-trade-winds-latin-america.html"
+redirect_to:
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Trade Winds Latin America
 date-display-start: September 07
