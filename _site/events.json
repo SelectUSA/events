@@ -120,17 +120,35 @@
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
     {
-      "title"    : "SelectUSA at BIO 2016",
-      "url"     : "/events/bio2016.html",
+      "title"    : "IEDC Training Course",
+      "url"     : "/events/iedc-training.html",
 "rowdiv": "odd",
-      "location" : "San Francisco, CA",
-      "startdate" : "June 6, 2016",
-"enddate" : "",
+      "location" : "San Diego, CA",
+      "startdate" : "July 28",
+"enddate" : " - 29, 2016",
       "date"     : {
-         "full"   : "2016-06-06 00:00:00 -0400",
-         "day"   : "06",
-         "month" : "June",
+         "full"   : "2016-07-28 00:00:00 -0400",
+         "day"   : "28",
+         "month" : "July",
          "year"  : "2016"
       }
     }
@@ -139,16 +157,16 @@
     
 
     {
-      "title"    : "Final Know Before You Go Call",
-      "url"     : "/events/kbyg-concall5.html",
+      "title"    : "Trade Winds Latin America",
+      "url"     : "/events/2016-trade-winds-latin-america.html",
 "rowdiv": "even",
-      "location" : "Conference Call",
-      "startdate" : "June 8, 2016",
-"enddate" : "",
+      "location" : "Santiago, Chile",
+      "startdate" : "September 07",
+"enddate" : " - 09, 2016",
       "date"     : {
-         "full"   : "2016-06-08 00:00:00 -0400",
-         "day"   : "08",
-         "month" : "June",
+         "full"   : "2016-09-07 00:00:00 -0400",
+         "day"   : "07",
+         "month" : "September",
          "year"  : "2016"
       }
     }
@@ -157,52 +175,16 @@
     
 
     {
-      "title"    : "International Franchise Expo",
-      "url"     : "/events/IFE_2016.html",
-"rowdiv": "odd",
-      "location" : "New York, NY",
-      "startdate" : "June 16",
-"enddate" : " - 18, 2016",
-      "date"     : {
-         "full"   : "2016-06-16 00:00:00 -0400",
-         "day"   : "16",
-         "month" : "June",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "Seminar for FinTech Startups",
-      "url"     : "/events/sem_fintech.html",
-"rowdiv": "even",
-      "location" : "London, UK",
-      "startdate" : "June 16, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-06-16 00:00:00 -0400",
-         "day"   : "16",
-         "month" : "June",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "SelectUSA Investment Summit",
-      "url"     : "/2016-summit.html",
+      "title"    : "Taiwan Road Show",
+      "url"     : "/events/2016-taiwan-road-show.html",
 "rowdiv": "odd-last",
-      "location" : "Washington, DC",
-      "startdate" : "June 19",
-"enddate" : " - 21, 2016",
+      "location" : "Taipei, Hsinchu, & Taichung, Taiwan",
+      "startdate" : "September 28",
+"enddate" : " - 30, 2016",
       "date"     : {
-         "full"   : "2016-06-20 00:00:00 -0400",
-         "day"   : "20",
-         "month" : "June",
+         "full"   : "2016-09-28 00:00:00 -0400",
+         "day"   : "28",
+         "month" : "September",
          "year"  : "2016"
       }
     }
