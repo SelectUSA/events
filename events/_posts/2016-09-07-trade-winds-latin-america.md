@@ -23,7 +23,7 @@ published: true
 Join us for Trade Winds to connect global investors in Latin America. The Trade Winds Latin America Business Forum is a great opportunity  for economic development organizations  to  connect with business leaders, government  officials, and global investors.  
 
 
-![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please contact Commercial Specialist, ([veronica.pinto@trade.gov]Veronica Pinto(mailto:veronica.pinto@trade.gov)).
+![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please contact Commercial Specialist, Veronica Pinto ([veronica.pinto@trade.gov](mailto:veronica.pinto@trade.gov)).
 
 ---
 
