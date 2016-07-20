@@ -20,7 +20,9 @@ published: true
 
 ### Trade Winds—Latin America Business Forum
 
-Join us for Trade Winds to connect global investors in Latin America. The Trade Winds Latin America Business Forum is a great opportunity  for economic development organizations  to  connect with business leaders, government  officials, and global investors.  
+The [Trade Winds-Latin America Business Development Conference and Trade Mission](http://2016.export.gov/tradewinds/), hosted by the U.S. Commercial Service, gives U.S. companies the opportunity to explore seven South American markets: Argentina; Bolivia; Chile; Mexico; Paraguay; Peru; and Uruguay. This year, U.S. economic development organizations (EDOs)  will have the opportunity to connect with business leaders, government  officials, and global investors in Santiago, Chile in a foreign direct investment-focused program. U.S. EDOs will have the chance to showcase their regions' investment opportunities to investors who are ready to do business.
+
+EDOs are also welcome to attend optional trade mission stops in the other six markets.
 
 
 ![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please contact Commercial Specialist, Veronica Pinto ([veronica.pinto@trade.gov](mailto:veronica.pinto@trade.gov)).
