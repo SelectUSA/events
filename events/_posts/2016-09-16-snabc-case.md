@@ -20,7 +20,7 @@ published: true
 
 ### SelectUSA at "Doing Business in the USA Masterclass"
 
-On September 16, SelectUSA will participate in "Doing Business in the USA Masterclass," a half-day seminar hosted by Ernst and Young and presented by the Scottish North American Business Council (SNABC) and the Council of American States in Europe (CASE). The masterclass, geared toward UK businesses looking to enter the U.S. market, will bring business experts together to discuss site selection, federal and state-level resources available for investment, success stories, and more.
+On September 16, SelectUSA will participate in ["Doing Business in the USA Masterclass,"](https://www.eventbrite.com/e/doing-business-in-the-usa-masterclass-tickets-26115710794) a half-day seminar hosted by Ernst and Young and presented by the Scottish North American Business Council (SNABC) and the Council of American States in Europe (CASE). The masterclass, geared toward UK businesses looking to enter the U.S. market, will bring business experts together to discuss site selection, federal and state-level resources available for investment, success stories, and more.
 
 Speakers include representatives from several U.S. states, SelectUSA, SDI, SNABC, CASE, and many more.
 
