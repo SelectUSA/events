@@ -26,6 +26,6 @@ On September 13 and in conjunction with the U.S. Embassy in London, we will hold
 * Determining the right time to move into the United States
 * Navigating the U.S. business environment as well as legal, tax, and intellectual property considerations across different U.S. jurisdictions
 
-![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please visit the event [website](http://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/from-export-to-us-expansion/details) or contact [Gus Franklyn-Bute](mailto:veronica.pinto@trade.gov).
+![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please visit the event [website](http://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/from-export-to-us-expansion/details) or contact [Gus Franklyn-Bute](mailto:gus.franklyn-bute@trade.gov).
 
 ---
