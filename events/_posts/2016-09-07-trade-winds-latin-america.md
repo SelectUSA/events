@@ -20,9 +20,13 @@ published: true
 
 ### Trade Winds—Latin America Business Forum
 
-The [Trade Winds-Latin America Business Development Conference and Trade Mission](http://2016.export.gov/tradewinds/), hosted by the U.S. Commercial Service, gives U.S. companies the opportunity to explore seven South American markets: Argentina; Bolivia; Chile; Mexico; Paraguay; Peru; and Uruguay. This year, U.S. economic development organizations (EDOs)  will have the opportunity to connect with business leaders, government  officials, and global investors in Santiago, Chile at the Trade Winds-Latin America Business Forum.
+The [Trade Winds-Latin America Business Development Conference and Trade Mission](http://2016.export.gov/tradewinds/), hosted by the U.S. Commercial Service, gives U.S. companies the opportunity to explore seven South American markets: Argentina; Bolivia; Chile; Mexico; Paraguay; Peru; and Uruguay. This year, U.S. economic development organizations (EDOs)  will have the opportunity to connect with business leaders, government  officials, and global investors in Santiago, Chile at the SelectUSA Business Forum.  
 
-![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please contact Commercial Specialist, Veronica Pinto ([veronica.pinto@trade.gov](mailto:veronica.pinto@trade.gov)).
+![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information on how your EDO can present its location to Chilean investors during Trade Winds Latin-America, please contact Commercial Specialist, Veronica Pinto ([veronica.pinto@trade.gov](mailto:veronica.pinto@trade.gov)).
+
+![Time](https://google.github.io/material-design-icons/action/svg/design/ic_schedule_24px.svg "Time") 8:30 a.m. - 12:00 p.m. BST, September 9, 2016
+
+![Location](https://google.github.io/material-design-icons/action/svg/design/ic_room_24px.svg "Location") Sheraton Santiago Hotel
 
 ---
 
