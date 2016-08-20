@@ -138,28 +138,12 @@
 
     
 
-    {
-      "title"    : "IEDC Training Course",
-      "url"     : "/events/iedc-training.html",
-"rowdiv": "odd",
-      "location" : "San Diego, CA",
-      "startdate" : "July 28",
-"enddate" : " - 29, 2016",
-      "date"     : {
-         "full"   : "2016-07-28 00:00:00 -0400",
-         "day"   : "28",
-         "month" : "July",
-         "year"  : "2016"
-      }
-    }
-    ,
-
     
 
     {
       "title"    : "Trade Winds Latin America",
       "url"     : "/events/2016-trade-winds-latin-america.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Santiago, Chile",
       "startdate" : "September 07",
 "enddate" : " - 09, 2016",
@@ -175,9 +159,45 @@
     
 
     {
+      "title"    : "Midland Seminar",
+      "url"     : "/events/midland-sem.html",
+"rowdiv": "even",
+      "location" : "Birmingham, UK",
+      "startdate" : "September 13, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-09-13 00:00:00 -0400",
+         "day"   : "13",
+         "month" : "September",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Doing Business in the USA Masterclass",
+      "url"     : "/events/snabc-case.html",
+"rowdiv": "odd",
+      "location" : "Glasgow, UK",
+      "startdate" : "September 16, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-09-16 00:00:00 -0400",
+         "day"   : "16",
+         "month" : "September",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "Taiwan Road Show",
       "url"     : "/events/2016-taiwan-road-show.html",
-"rowdiv": "odd-last",
+"rowdiv": "even",
       "location" : "Taipei, Hsinchu, & Taichung, Taiwan",
       "startdate" : "September 28",
 "enddate" : " - 30, 2016",
@@ -185,6 +205,42 @@
          "full"   : "2016-09-28 00:00:00 -0400",
          "day"   : "28",
          "month" : "September",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at K Trade Fair 2016",
+      "url"     : "/events/k-trade-fair-2016.html",
+"rowdiv": "odd",
+      "location" : "Düsseldorf, Germany",
+      "startdate" : "October 21, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-10-21 00:00:00 -0400",
+         "day"   : "21",
+         "month" : "October",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at MEDICA 2016",
+      "url"     : "/events/medica-2016.html",
+"rowdiv": "even-last",
+      "location" : "Düsseldorf, Germany",
+      "startdate" : "November 15, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-11-15 00:00:00 -0500",
+         "day"   : "15",
+         "month" : "November",
          "year"  : "2016"
       }
     }
