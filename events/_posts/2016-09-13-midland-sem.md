@@ -20,7 +20,7 @@ published: true
 
 ### SelectUSA Midland Seminar - "From Export to U.S. Expansion"
 
-On September 13 and in conjunction with the U.S. Embassy in London, we will hold a seminar in Birmingham, UK for companies wanting to focus on expanding in the United States. Panelists from KPMG, the British-American Business Council, the Council of American States in Europe (CASE), and UK Trade & Investment (UKTI) will discuss:
+On September 13 and in conjunction with the U.S. Embassy in London, SelectUSA will hold a seminar in Birmingham, UK for companies wanting to focus on expanding in the United States. Panelists from KPMG, the British-American Business Council, the Council of American States in Europe (CASE), and UK Trade & Investment (UKTI) will discuss:
 
 * Moving from an export to an investment strategy
 * Determining the right time to move into the United States
