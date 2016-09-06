@@ -20,7 +20,7 @@ published: true
 
 ### Brazil Road Show Briefing Call
 
-On September 19, from 1:00 - 2:00 p.m. ET, SelectUSA will hold a conference call for U.S. economic development organizations and service providers interested in participating in the Brazil Road Show. To sign up for this call, please contact [Rebecca Moudry](mailto:rebecca.moudry@trade.gov), Deputy Director of Investment Services for SelectUSA.
+On September 19, from 1:00 - 2:00 p.m. ET, SelectUSA will hold a conference call for U.S. economic development organizations and service providers interested in participating in the Brazil Road Show. To sign up for this call, please contact [AJ Francis](mailto:aj.francis@trade.gov).
 
 #### About the 2016 Brazil Road Show
 
