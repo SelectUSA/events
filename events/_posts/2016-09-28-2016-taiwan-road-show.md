@@ -26,6 +26,7 @@ Taiwan is the United States' ninth-largest trading partner and the Road Show is 
 
 ![Contact/Information](http://google.github.io/material-design-icons/action/svg/design/ic_speaker_notes_24px.svg "Contact/Information") For more information, please contact John McKiel ([john.mckiel@trade.gov](mailto:john.mckiel@trade.gov)) in Washington, D.C. or Jackie Hong ([jackie.hong@trade.gov](mailto:jackie.hong@trade.gov))in Taipei.
 
+_**UPDATE: Because we have reached capacity, we are no longer accepting applications for the Taiwan Road Show.**_
 ---
 
 In 2013 alone, foreign direct investment (FDI) from Taiwan supported 12,100 U.S. jobs, accounted for $129 million in research and development spending, and contributed $1.1 billion to U.S. goods exports. Check out our [fact sheet on FDI from Taiwan](https://www.selectusa.gov/country-fact-sheet/Taiwan) for more information!
