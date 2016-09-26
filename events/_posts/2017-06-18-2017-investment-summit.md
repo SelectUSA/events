@@ -6,7 +6,7 @@ date-display-start: June 18
 date-display-end: 20, 2016
 calendar-start: 2016-06-18
 calendar-end: 2016-06-20
-location-value: Washington, DC
+location-value: Washington, D.C.
 location-type: Domestic
 section: events
 published: true
@@ -16,7 +16,7 @@ published: true
 
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
-![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Gaylord Hotel, {{ page.location-value }}
+![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington, D.C.
 
 ### Save the date: 2017 SelectUSA Investment Summit
 
