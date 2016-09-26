@@ -18,7 +18,7 @@ published: true
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Gaylord Hotel, {{ page.location-value }}
 
-![Logo of 2017 Summit]({{site.baseurl}}/images/2017-summit-logo-date.jpg )
+![Logo of 2017 Summit]({{site.baseurl}}events/images/2017-summit-logo-date.jpg )
 
 ### Save the date: 2017 SelectUSA Investment Summit
 
