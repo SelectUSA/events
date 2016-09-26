@@ -6,7 +6,7 @@ date-display-start: December 6, 2016
 date-display-end: December 6, 2016
 calendar-start: 2016-12-06
 calendar-end: 2016-12-06
-location-value: Ottawa, Canada
+location-value: Montreal, Canada
 location-type: International
 section: events
 published: true
