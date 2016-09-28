@@ -3,7 +3,7 @@ permalink: "events/2017-investment-summit.html"
 layout: sidebar
 title: 2017 SelectUSA Investment Summit
 date-display-start: June 18
-date-display-end: 20, 2016
+date-display-end: 20, 2017
 calendar-start: 2017-06-18
 calendar-end: 2017-06-20
 location-value: Washington, D.C.
