@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-2017-India-Road-Show.html"
+permalink: "events/2017-india-road-show.html"
 layout: sidebar
 title: India Road Show
 date-display-start: March 6
