@@ -53,8 +53,6 @@ If you missed it, you can still check out the presentations,&nbsp;[available onl
 
 ## Road Shows
 
-<span class="imgright">[![Ambassador Kennedy Speaking in Japan at SelectUSA event](images/amb_cbk_gives_remarks_at_the_su_japan_launch_and_showcase-300x200.jpg "Ambassador Kennedy Speaking in Japan at SelectUSA event")</span>
-
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
 *   [**Taiwan**]({{base.url}}events/2016-taiwan-road-show.html) - September 28-30, 2016
@@ -70,24 +68,17 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 * * *
 
 ## Trade Shows
-<span class="imgright">![](images/usa_investment_center_2-300x225.jpg)</span>
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
-*   [**International Franchise Expo**]({{base.url}}/events/selectusa-international-franchise-expo.html) - June 18-20, 2015 in New York, NY
-*   [**BIO International Convention**]({{base.url}}/events/selectusa-bio-2015.html) - June 15-18, 2015 in Philadelphia, PA
-*   [**Offshore Technology Conference**]({{ site.baseurl }}{{post.url}}/events/selectusa-offshore-technology-conference-otc.html) - May 4-7, 2015 in Houston, TX
-*   [**Hannover Messe**]({{ site.baseurl }}{{post.url}}/events/selectusa-hannover-messe.html) - April 13-17, 2015 in Hannover, Germany
-*   [**Canadian International Auto Show (CIAS)**]({{ site.baseurl }}{{post.url}}/events/selectusa-investment-center-canadian-international-auto-show-cias.html) - February 12, 2015 in Toronto, Canada
-*   [**CAR-Symposium**]({{ site.baseurl }}{{post.url}}/events/selectusa-car-symposium.html) - Febraury 4, 2015 in Bochum, Germany
-*   **BIO International Convention** - June 25, 2014 in San Diego, CA
-*   **International Franchise Expo** - June 19-21, 2014 in New York, NY
-*   **POWERGEN Europe** - June 3-5, 2014 in Cologne, Germany
-*   **Israel Innovation Conference** - May 20, 2014 in Tel Aviv, Israel
-*   **Offshore Technology Conference** - May 5-8, 2014 in Houston, TX
-*   **Hannover Messe** - April 7-11, 2014 in Hannover, Germany
-*   **International Film &amp; TV Market** - March 25, 2014 in Hong Kong, China
-*   **Candian International Auto Show** - February 13, 2014 in Toronto, Canada
+*   [**International Franchise Expo**]({{base.url}}/events/IFE_2016.html) - June 16-18, 2016 in New York, NY
+*   [**BIO**]({{base.url}}/events/bio2016.html) - June 6, 2016 in San Francisco, CA
+*   [**Hannover Messe 2016**]({{base.url}}/events/selectusa-hannover-messe-2016.html) - April 25-29, 2016 in Hannover, Germany
+*   [**Canadian International Auto Show**]({{base.url}}events/canada-auto-show.html) - February 11, 2016 in Toronto, Canada
+*   [**CES 2016**]({{base.url}}/events/selectusa-ces2016.html) - January 5-9, 2016 in Las Vegas, NV
+*   [**Guangzhou Auto Show**]({{base.url}}/events/guangzhou-auto-show.html) - November 21, 2015 in Guangzhou, China
+*   [**Web Summit**]({{base.url}}/events/dublin-web-summit.html) - November 3-5, 2015 in Dublin, Ireland
+*   [**National Aerospace FDI Exposition**]({{base.url}}/events/national-aerospace-fdi-exposition.html) - October 26-28, 2015 in Los Angeles, CA
 
 * * *
 
@@ -95,27 +86,12 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
-<span class="imgright">![Investment Seminar in Greece](images/4355_eveth_-300x200.jpg "Investment Seminar in Greece")</span>
-
-*   **Doing Business in the United States** - June 20, 2014 in Chengdu, China
-*   **SelectUSA Workshop for the Thessaloniki
-Chamber of Commerce &amp; Industry: Doing Business in the United States** - May 28, 2014 in Thessaloniki, Greece
-*   **SelectUSA for Startups** - May 20-21, 2014 in Bern, Switzerland
-*   **SelectUSA Workshop** - May 14, 2014 in Dusseldorf, Germany
-*   **Forumulating Your Company's Aeronautics/Electronics Investment** - May 13, 2014 in Toulouse, France
-*   **SelectUSA Program Presentation at the “GET Funded &amp;
-International” session eHealth Forum** - May 12, 2014 in Athens, Greece
-*   **Turkish American Business Council** - May 7, 2014 in Istanbul, Turkey
-*   **Council of the American States in Europe** - April 22-25, 2014 in Brussels, Belgium; The Hague, Netherlands; Paris, France
-*   **Austrian Investment Forum** - April 2-3, 2014 in Vienna and Linz, Austria
-*   **SelectUSA Workshop for Greek Delegates** - March 19, 2014 in Athens, Greece
-*   **USA: A Market in Strong Recovery** - March 11-12, 2014 in Naples and Bari, Italy
-*   **SelectUSA for Startups** - March 10, 2014 in London, United Kingdom
-*   **Korea SelectUSA Roundtable and Delegation Visit** - March 6, 2014 in Seoul, Korea
-*   **SelectUSA Showcase and Reception** - in Tokyo, Japan
-*   **SelectUSA Seminar** - February 21, 2014 in Fukuoka, Japan
-*   **VL Summit** - February 4, 2014 in Copenhagen, Denmark
-*   **SelectUSA Seminar** - January 31, 2014 in Sendai, Japan
-*   **SelectUSA Business/Investor Visa Workshop** - January 16, 2014 in Munich, Germany&nbsp;
-*   **Asian Financial Forum** - January 13-14, 2014 in Hong Kong, China
-*   **SelectUSA Investment Showcase** - November 22, 2013 in Munich, Germany    
+*   [**FDI By the Numbers**]({{base.url}}/events/fdi-webinar-sept-2016.html) - September 27, 2016 (_Webinar_)
+*   [**IEDC Annual Conference participation**]({{base.url}}/events/2016-iedc.html) - September 25-26, 2016 in Cleveland, OH
+*   [**Doing Business in the USA Masterclass**]({{base.url}}/events/snabc-case.html) - September 16, 2016 in Glasgow, UK
+*   [**From Export to U.S. Expansion**]({{base.url}}/events/2016-export-us-expansion.html) - September 14, 2016 in Manchester & Liverpool, UK
+*   [**Trade Winds-Latin America**]({{base.url}}/events/2016-trade-winds-latin-america.html) - September 7-9, 2016 in Santiago, Chile
+*   [**UKTI Event**]({{base.url}}/events/ukti-event.html) - June 21, 2016 in London, UK
+*   [**2016 SelectUSA Investment Summit**](https://www.selectusa.gov/2016-investment-summit) - June 19-21, 2016 in Washington, D.C.
+*   [**French-American Business Week**]({{base.url}}/events/fabw2016.html) - May 18-19, 2016 in Washington, D.C.
+*   [**Biopharma FDI Promotion Event**]({{base.url}}/events/cskorea-biopharma-fdi-2016.html) - March 30, 2016 in Seoul, South Korea
