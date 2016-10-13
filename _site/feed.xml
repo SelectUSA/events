@@ -2,14 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Aug 2016 09:45:29 -0400</pubDate>
-    <lastBuildDate>Sat, 20 Aug 2016 09:45:29 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2016 07:26:13 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2016 07:26:13 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
   
+  <item>
+    <title>2017 SelectUSA Investment Summit</title>
+    <link>/events/2017-investment-summit.html</link>
+    <pubDate>Sun, 18 Jun 2017 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>SelectUSA at Hannover Messe 2017</title>
+    <link>/events/hannover-messe-2017</link>
+    <pubDate>Mon, 24 Apr 2017 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>India Road Show</title>
+    <link>/events/2017-india-road-show.html</link>
+    <pubDate>Mon, 06 Mar 2017 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Cybertech 2017</title>
+    <link>/events/cybertech-2017.html</link>
+    <pubDate>Sun, 29 Jan 2017 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>SelectUSA at CES 2017</title>
+    <link>/events/selectusa-ces2017.html</link>
+    <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>SelectUSA Canada 2016</title>
+    <link>/events/selectusa-canada-2016.html</link>
+    <pubDate>Tue, 06 Dec 2016 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Brazil Road Show</title>
+    <link>/events/brazil-2016.html</link>
+    <pubDate>Mon, 05 Dec 2016 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
   <item>
     <title>SelectUSA at MEDICA 2016</title>
     <link>/events/medica-2016.html</link>
     <pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Paris Startup Pitch Competition</title>
+    <link>/events/paris-startup-competition-2016.html</link>
+    <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>NAFAN Convention 2016</title>
+    <link>/events/nafan-2016.html</link>
+    <pubDate>Mon, 31 Oct 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     
@@ -28,9 +91,37 @@
   </item>
     
   <item>
+    <title>FDI By the Numbers</title>
+    <link>/events/fdi-webinar-sept-2016.html</link>
+    <pubDate>Tue, 27 Sep 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>IEDC 2016 Annual Conference</title>
+    <link>/events/2016-iedc.html</link>
+    <pubDate>Sun, 25 Sep 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Brazil Road Show Briefing Call</title>
+    <link>/events/brazil-briefing-2016.html</link>
+    <pubDate>Mon, 19 Sep 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
     <title>Doing Business in the USA Masterclass</title>
     <link>/events/snabc-case.html</link>
     <pubDate>Fri, 16 Sep 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>From Export to U.S. Expansion</title>
+    <link>/events/2016-export-us-expansion.html</link>
+    <pubDate>Wed, 14 Sep 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     

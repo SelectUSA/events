@@ -140,75 +140,19 @@
 
     
 
-    {
-      "title"    : "Trade Winds Latin America",
-      "url"     : "/events/2016-trade-winds-latin-america.html",
-"rowdiv": "odd",
-      "location" : "Santiago, Chile",
-      "startdate" : "September 07",
-"enddate" : " - 09, 2016",
-      "date"     : {
-         "full"   : "2016-09-07 00:00:00 -0400",
-         "day"   : "07",
-         "month" : "September",
-         "year"  : "2016"
-      }
-    }
-    ,
+    
 
     
 
-    {
-      "title"    : "Midland Seminar",
-      "url"     : "/events/midland-sem.html",
-"rowdiv": "even",
-      "location" : "Birmingham, UK",
-      "startdate" : "September 13, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-09-13 00:00:00 -0400",
-         "day"   : "13",
-         "month" : "September",
-         "year"  : "2016"
-      }
-    }
-    ,
+    
 
     
 
-    {
-      "title"    : "Doing Business in the USA Masterclass",
-      "url"     : "/events/snabc-case.html",
-"rowdiv": "odd",
-      "location" : "Glasgow, UK",
-      "startdate" : "September 16, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-09-16 00:00:00 -0400",
-         "day"   : "16",
-         "month" : "September",
-         "year"  : "2016"
-      }
-    }
-    ,
+    
 
     
 
-    {
-      "title"    : "Taiwan Road Show",
-      "url"     : "/events/2016-taiwan-road-show.html",
-"rowdiv": "even",
-      "location" : "Taipei, Hsinchu, & Taichung, Taiwan",
-      "startdate" : "September 28",
-"enddate" : " - 30, 2016",
-      "date"     : {
-         "full"   : "2016-09-28 00:00:00 -0400",
-         "day"   : "28",
-         "month" : "September",
-         "year"  : "2016"
-      }
-    }
-    ,
+    
 
     
 
@@ -231,9 +175,45 @@
     
 
     {
+      "title"    : "NAFAN Convention 2016",
+      "url"     : "/events/nafan-2016.html",
+"rowdiv": "even",
+      "location" : "Orlando, FL",
+      "startdate" : "October 31, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-10-31 00:00:00 -0400",
+         "day"   : "31",
+         "month" : "October",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Paris Startup Pitch Competition",
+      "url"     : "/events/paris-startup-competition-2016.html",
+"rowdiv": "odd",
+      "location" : "Paris, France",
+      "startdate" : "November 7, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-11-07 00:00:00 -0500",
+         "day"   : "07",
+         "month" : "November",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA at MEDICA 2016",
       "url"     : "/events/medica-2016.html",
-"rowdiv": "even-last",
+"rowdiv": "even",
       "location" : "Düsseldorf, Germany",
       "startdate" : "November 15, 2016",
 "enddate" : "",
@@ -242,6 +222,132 @@
          "day"   : "15",
          "month" : "November",
          "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Brazil Road Show",
+      "url"     : "/events/brazil-2016.html",
+"rowdiv": "odd",
+      "location" : "São Paulo, Curitiba and Porto Alegre, Brazil",
+      "startdate" : "December 5",
+"enddate" : " - 9, 2016",
+      "date"     : {
+         "full"   : "2016-12-05 00:00:00 -0500",
+         "day"   : "05",
+         "month" : "December",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Canada 2016",
+      "url"     : "/events/selectusa-canada-2016.html",
+"rowdiv": "even",
+      "location" : "Montreal, Canada",
+      "startdate" : "December 6, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-12-06 00:00:00 -0500",
+         "day"   : "06",
+         "month" : "December",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at CES 2017",
+      "url"     : "/events/selectusa-ces2017.html",
+"rowdiv": "odd",
+      "location" : "Las Vegas, NV",
+      "startdate" : "January 5",
+"enddate" : " - 8, 2017",
+      "date"     : {
+         "full"   : "2017-01-05 00:00:00 -0500",
+         "day"   : "05",
+         "month" : "January",
+         "year"  : "2017"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Cybertech 2017",
+      "url"     : "/events/cybertech-2017.html",
+"rowdiv": "even",
+      "location" : "Tel Aviv, Israel",
+      "startdate" : "January 29",
+"enddate" : " - February 1, 2017",
+      "date"     : {
+         "full"   : "2017-01-29 00:00:00 -0500",
+         "day"   : "29",
+         "month" : "January",
+         "year"  : "2017"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "India Road Show",
+      "url"     : "/events/2017-india-road-show.html",
+"rowdiv": "odd",
+      "location" : "New Delhi, Ahmedabad, & Bangalore, India",
+      "startdate" : "March 6",
+"enddate" : " - 10, 2017",
+      "date"     : {
+         "full"   : "2017-03-06 00:00:00 -0500",
+         "day"   : "06",
+         "month" : "March",
+         "year"  : "2017"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at Hannover Messe 2017",
+      "url"     : "/events/hannover-messe-2017",
+"rowdiv": "even",
+      "location" : "Hannover, Germany",
+      "startdate" : "April 24",
+"enddate" : " - 28, 2017",
+      "date"     : {
+         "full"   : "2017-04-24 00:00:00 -0400",
+         "day"   : "24",
+         "month" : "April",
+         "year"  : "2017"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "2017 SelectUSA Investment Summit",
+      "url"     : "/events/2017-investment-summit.html",
+"rowdiv": "odd-last",
+      "location" : "Washington, D.C.",
+      "startdate" : "June 18",
+"enddate" : " - 20, 2017",
+      "date"     : {
+         "full"   : "2017-06-18 00:00:00 -0400",
+         "day"   : "18",
+         "month" : "June",
+         "year"  : "2017"
       }
     }
     

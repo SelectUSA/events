@@ -7,19 +7,17 @@ published: true
 
 ## Past Events: Catching Up with SelectUSA
 
-The past year has been a busy one for SelectUSA. We've convened major policy conferences like the [2015 Investment Summit]({{ site.baseurl }}{{post.url}}/2015-summit.html) and the [Summer Forum]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
+The past year has been a busy one for SelectUSA. We've convened major policy conferences like our [Investment Summits](https://www.selectusa.gov/selectusa-summit) and the [Summer Forum]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
 
 * * *
 
-## 2015 SelectUSA Investment Summit 
+## SelectUSA Investment Summit
 
 <span class="imgright"><a href="{{ site.baseurl }}{{post.url}}/2015-summit.html"><img src="http://www.commerce.gov/sites/commerce.gov/files/styles/scale_700w/public/16722605079_45ed7eff3f_o.jpg?itok=hY2r4t4y" alt="President Obama Addresses the 2015 SelectUSA Summit" width="300"></a></span>
 
-**March 23-24, 2015**
+The SelectUSA Investment Summit brings the diversity of the United States together under one roof – enabling any business to find the people, the resources, and the market it needs to be successful.
 
-<span>The second&nbsp;</span>**SelectUSA Investment Summit**<span>&nbsp;on March 23-24, 2015&nbsp;was a tremendous success. We brought together&nbsp;</span>**investors**<span>&nbsp;from more than 70 international markets as well as&nbsp;</span>**economic development organizations&nbsp;**<span>from all 50 states, high-level government officials, and others working to facilitate investment in the United States. Our 2,600+ participants had access to&nbsp;</span>**unique networking opportunities**<span>, online matchmaking, insights from&nbsp;</span>**global CEOs and senior U.S. leaders**<span>, and discussions on the latest issues affecting investments.</span>
-
-Please visit our [2015 Summit page]({{ site.baseurl }}{{post.url}}/2015-summit.html) to learn more about the event's outcomes, view our photos, watch recorded plenary sessions, and more.
+Please visit our <a href="https://www.selectusa.gov/selectusa-summit">Investment Summit page</a> to learn more about the events' outcomes, view our photos, watch recorded plenary sessions, and more.
 
 * * *
 
@@ -52,22 +50,6 @@ Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and
 If you missed it, you can still check out the presentations,&nbsp;[available online]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html).
 
 * * *
-
-## 2013 SelectUSA Investment Summit
-
-<span class="imgright">[![Secretary Penny Pritzker speaking at 2013 SelectUSA Summit](images/pritzker_closeup_speaking-300x225.jpg "Secretary Penny Pritzker speaking at 2013 SelectUSA Summit")](http://www.selectusasummit.com/)</span>
-
-**October 31-November 1, 2013**
-
-The first-ever Investment Summit sold out, with **more than 1,300 participants**, including a diverse mix of global investors, U.S. economic development organizations, government officials, U.S. companies, and business associations.&nbsp;
-
-*   **654 international participants****&nbsp;from 60 different markets**, representing 456 foreign or multinational firms.
-*   More than**&nbsp;200 representatives of economic development organizations (EDOs)&nbsp;**from 48 states, Puerto Rico, the U.S. Virgin Islands, the Northern Mariana Islands, American Samoa and the District of Columbia.**&nbsp;**
-*   Many more joined virtually:&nbsp;**7,216 unique visitors**&nbsp;from 109 countries&nbsp;[watched online](http://new.livestream.com/accounts/4828334/selectUSA2013)&nbsp;live.
-*   More than**&nbsp;70 U.S. Government officials and staff from 16 different agencies**&nbsp;were there to answer questions from investors and EDOs.&nbsp;
-*   Hundreds of meetings were scheduled in advance through the Summit’s online matchmaking platform, and hundreds more took place on the tradeshow floor.
-
-***
 
 ## Road Shows
 
