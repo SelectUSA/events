@@ -7,7 +7,7 @@ published: true
 
 ## Past Events: Catching Up with SelectUSA
 
-The past year has been a busy one for SelectUSA. We've convened major policy conferences like our [Investment Summits](https://www.selectusa.gov/selectusa-summit) and the [Summer Forum]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
+The past few years have been busy for SelectUSA. We've convened major policy conferences, taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
 
 * * *
 
@@ -57,15 +57,13 @@ If you missed it, you can still check out the presentations,&nbsp;[available onl
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
-*   [**Greater China**]({{base.url}}/events/save-date-selectusa-greater-china-road-show.html) - May 18-29, 2015
-*   [**Mexico**]({{base.url}}/events/save-date-selectusa-mexico-road-show.html) - May 12-14, 2015
-*   **Australia and New Zealand** - September 7-12, 2014
-*   **Chile, Brazil, and Colombia** - August 26-29, 2014
-*   **Mexico** - May 20-21, 2014
-*   **Japan** - May 19-23, 2014
-*   **Korea** - May 16, 2014
-*   **Pearl River Delta** - April 14-18, 2014
-*   **Spain** - November 19-21, 2013
+*   [**Taiwan**]({{base.url}}events/2016-taiwan-road-show.html) - September 28-30, 2016
+*   [**Japan**]({{base.url}}events/japan-road-show.html) - February 1-5, 2016
+*   [**Silk Road China**]({{base.url}}/events/silk-road-china-road-show.html) - January 13-18, 2016
+*   [**Brazil**]({{base.url}}/events/selectusa-brazil-road-show.html) - December 1-4, 2015
+*   [**India**]({{base.url}}/events/india-road-show.html) - October 13-16, 2015
+*   [**Nordic**]({{base.url}}/events/selectusa-road-show-nordics.html) - September 14-21, 2015 in Norway, Denmark, Sweden, Finland, & Estonia
+*   [**Taiwan**]({{base.url}}/events/selectusa-taiwan-road-show.html) - August 5-6, 2015
 
 &nbsp;
 
