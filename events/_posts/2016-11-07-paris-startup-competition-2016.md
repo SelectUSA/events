@@ -18,7 +18,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-SelectUSA -- with Gershon Consulting, La CCI Paris Île-de-France, and many more organizations and companies -- is co-hosting a [startup pitch competition](http://www.gershonconsulting.com/competition/) for new companies looking to enter the U.S. market. Ten finalists will compete for the grand prize -- Round-trip tickets to New York where the winner will receive:
+Gershon Consulting and the CCI Paris Île-de-France are co-hosting a [startup pitch competition](http://www.gershonconsulting.com/competition/) for new companies looking to enter the U.S. market. Ten finalists will compete for the grand prize -- Round-trip tickets to New York where the winner will receive:
 
 * Legal assistance
 * PR support
