@@ -1,5 +1,5 @@
 ---
-permalink: "events/NW-Italy-Seminar-2017.html"
+permalink: "events/Cent-Italy-Seminar-2017.html"
 layout: sidebar
 title: 2017 Central Italy Seminar
 date-display-start: March 2, 2017
