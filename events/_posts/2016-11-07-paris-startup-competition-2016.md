@@ -18,7 +18,9 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-Gershon Consulting and the CCI Paris Île-de-France are co-hosting a [startup pitch competition](http://www.gershonconsulting.com/competition/) for new companies looking to enter the U.S. market. Ten finalists will compete for the grand prize -- Round-trip tickets to New York where the winner will receive:
+Gershon Consulting and the CCI Paris Île-de-France are co-hosting a [startup pitch competition](http://www.gershonconsulting.com/competition/) for European startups looking to enter the U.S. market on November 7, 2016, in Paris.
+
+These firms have until **Saturday, October 22, 2016** to apply for the competition. Ten finalists will compete for the grand prize -- Round-trip tickets to New York where the winner will receive:
 
 * Legal assistance
 * PR support
@@ -30,4 +32,4 @@ Gershon Consulting and the CCI Paris Île-de-France are co-hosting a [startup pi
 * Operational assistance
 * Conference tickets
 
-For more information and to enter the competition, please visit the event [website](http://www.gershonconsulting.com/competition/).
+_For more information and to enter the competition, please visit the event [website](http://www.gershonconsulting.com/competition/)._
