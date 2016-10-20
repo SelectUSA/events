@@ -20,11 +20,19 @@ published: true
 
 ### SelectUSA Canada 2016
 
-SelectUSA Canada provides an exclusive one-stop opportunity for Canadian firms to learn more about setting up or expanding a business in the United States. This full day program includes information on the expansion process, access to funding, facilities, and a myriad of incentives, programs and services available to support U.S. expansion plans.
+SelectUSA Canada provides an exclusive one-stop opportunity for Canadian firms to learn more about setting up or expanding a business in the United States. 
 
-Throughout the day, firms will be able to network with U.S., state, and local economic development representatives and learn from subject matter experts focused on assisting in U.S. expansion.
+The conference will include sessions on topics that all companies looking to establish operations in the United States must consider. Experts will discuss entry strategies, corporate structures, tax implications, finance options, due diligence, site selection, and more! The event will also include special presentations from senior U.S. Government officials. By participating in the 2016 SelectUSA Canada Conference, your company will gain access to:
 
-#### _More information coming soon!_
+* A full-day conference program (_including a special luncheon presentation_)
+* Individual consultations with U.S. economic development officials from various stat
+* Extensive networking opportunities and reception
+
+The registration portal will open soon. In the meantime, please contact [Bojan Opsenica](mailto:selectusa-canada@trade.gov).
+
+Registration is free for Canadian companies. Space will be limited and we encourage interested parties to apply as soon as possible.
+
+[_View conference agenda_](https://build.export.gov/bgcanada/bg_ca_104530)
 
 ---
 
