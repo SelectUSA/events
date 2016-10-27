@@ -71,6 +71,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
+*   [**SelectUSA at K Trade Fair 2016**]({{base.url}}/events/k-trade-fair-2016.html) - October 21, 2016 in Düsseldorf, Germany
 *   [**International Franchise Expo**]({{base.url}}/events/IFE_2016.html) - June 16-18, 2016 in New York, NY
 *   [**BIO**]({{base.url}}/events/bio2016.html) - June 6, 2016 in San Francisco, CA
 *   [**Hannover Messe 2016**]({{base.url}}/events/selectusa-hannover-messe-2016.html) - April 25-29, 2016 in Hannover, Germany
@@ -86,6 +87,7 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
+*   [**Journey to the Web Summit**]({{base.url}}/events/microsoft-websummit-2016.html) - October 18, 2016 in Lisbon, Portugal
 *   [**FDI By the Numbers**]({{base.url}}/events/fdi-webinar-sept-2016.html) - September 27, 2016 (_Webinar_)
 *   [**IEDC Annual Conference participation**]({{base.url}}/events/2016-iedc.html) - September 25-26, 2016 in Cleveland, OH
 *   [**Doing Business in the USA Masterclass**]({{base.url}}/events/snabc-case.html) - September 16, 2016 in Glasgow, UK
