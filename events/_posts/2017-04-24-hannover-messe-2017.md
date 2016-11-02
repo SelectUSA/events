@@ -1,7 +1,7 @@
 ---
 permalink: "events/hannover-messe-2017"
 layout: sidebar
-title: SelectUSA at Hannover Messe 2017
+title: Hannover Messe 2017
 date-display-start: April 24
 date-display-end: 28, 2017
 calendar-start: 2017-04-24
