@@ -20,7 +20,7 @@ published: true
 
 ### SelectUSA Canada 2016
 
-SelectUSA Canada provides an exclusive one-stop opportunity for Canadian firms to learn more about setting up or expanding a business in the United States. 
+[SelectUSA Canada](https://connect.eventtia.com/en/dmz/selectusacanada/website) provides an exclusive one-stop opportunity for Canadian firms to learn more about setting up or expanding a business in the United States. 
 
 The conference will include sessions on topics that all companies looking to establish operations in the United States must consider. Experts will discuss entry strategies, corporate structures, tax implications, finance options, due diligence, site selection, and more! The event will also include special presentations from senior U.S. Government officials. By participating in the 2016 SelectUSA Canada Conference, your company will gain access to:
 
@@ -28,7 +28,7 @@ The conference will include sessions on topics that all companies looking to est
 * Individual consultations with U.S. economic development officials from various stat
 * Extensive networking opportunities and reception
 
-The registration portal will open soon. In the meantime, please contact [Bojan Opsenica](mailto:selectusa-canada@trade.gov).
+[Click here](https://connect.eventtia.com/en/dmz/selectusacanada/website) to register. For more information, please contact [Bojan Opsenica](mailto:selectusa-canada@trade.gov).
 
 Registration is free for Canadian companies. Space will be limited and we encourage interested parties to apply as soon as possible.
 
