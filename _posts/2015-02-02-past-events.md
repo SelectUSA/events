@@ -71,6 +71,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
+*   [**SelectUSA at MEDICA 2016**]({{base.url}}/events/medica-2016.html) - November 15, 2016
 *   [**SelectUSA at NAFAN Convention 2016**]({{base.url}}/events/nafan-2016.html) - October 31, 2016 in Orlando, FL
 *   [**SelectUSA at K Trade Fair 2016**]({{base.url}}/events/k-trade-fair-2016.html) - October 21, 2016 in Düsseldorf, Germany
 *   [**International Franchise Expo**]({{base.url}}/events/IFE_2016.html) - June 16-18, 2016 in New York, NY
@@ -80,7 +81,6 @@ SelectUSA has increased its presence at industry events both domestically and ov
 *   [**CES 2016**]({{base.url}}/events/selectusa-ces2016.html) - January 5-9, 2016 in Las Vegas, NV
 *   [**Guangzhou Auto Show**]({{base.url}}/events/guangzhou-auto-show.html) - November 21, 2015 in Guangzhou, China
 *   [**Web Summit**]({{base.url}}/events/dublin-web-summit.html) - November 3-5, 2015 in Dublin, Ireland
-*   [**National Aerospace FDI Exposition**]({{base.url}}/events/national-aerospace-fdi-exposition.html) - October 26-28, 2015 in Los Angeles, CA
 
 * * *
 
@@ -88,6 +88,7 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
+*   [**AmCham Spain Event**]({{base.url}}/events/amcham-spain-2016.html) - November 16, 2016
 *   [**Paris Startup Pitch Competition**]({{base.url}}/events/paris-startup-competition-2016.html) - November 7, 2016
 *   [**Southwest USA Technology Opportunities**]({{base.url}}/events/gpec-2016.html) - November 4, 2016 in London, UK
 *   [**Journey to the Web Summit**]({{base.url}}/events/microsoft-websummit-2016.html) - October 18, 2016 in Lisbon, Portugal
@@ -97,4 +98,3 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 *   [**From Export to U.S. Expansion**]({{base.url}}/events/2016-export-us-expansion.html) - September 14, 2016 in Manchester & Liverpool, UK
 *   [**Trade Winds-Latin America**]({{base.url}}/events/2016-trade-winds-latin-america.html) - September 7-9, 2016 in Santiago, Chile
 *   [**UKTI Event**]({{base.url}}/events/ukti-event.html) - June 21, 2016 in London, UK
-*   [**2016 SelectUSA Investment Summit**](https://www.selectusa.gov/2016-investment-summit) - June 19-21, 2016 in Washington, D.C.
