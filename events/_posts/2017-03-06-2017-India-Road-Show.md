@@ -20,7 +20,7 @@ published: true
 
 The 2017 India Road Show has been scheduled for **March 6-10, 2017**. The Road Show to **New Delhi** (March 6-7), **Ahmedabad** (March 8-9), and **Bangalore** (March 10) will offer U.S. state, local, regional, and tribal economic development organizations (EDOs) the opportunity to market their locations directly to investors in India.
 
-For more information please contact [Rahul Padmanabha](mailto:Rahul.Padmanabha@trade.gov) in New Delhi or [Seth Isenberg]
+For more information please contact [Rahul Padmanabha](mailto:Rahul.Padmanabha@trade.gov) in Bengaluru or [Seth Isenberg]
 (mailto:seth.isenberg@trade.gov) in Washington, D.C. 
 
 ---
