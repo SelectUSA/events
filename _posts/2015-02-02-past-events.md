@@ -55,6 +55,7 @@ If you missed it, you can still check out the presentations,&nbsp;[available onl
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
+*   [**Brazil**]({{base.url}}/events/brazil-2016.html) - December 5-9, 2016
 *   [**Taiwan**]({{base.url}}events/2016-taiwan-road-show.html) - September 28-30, 2016
 *   [**Japan**]({{base.url}}events/japan-road-show.html) - February 1-5, 2016
 *   [**Silk Road China**]({{base.url}}/events/silk-road-china-road-show.html) - January 13-18, 2016
@@ -88,6 +89,8 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
+*   [**SelectUSA Canada 2016**]({{base.url}}/events/selectusa-canada-2016) - December 6, 2016 in Montreal, Canada
+*   [**Fast Track USA**]({{base.url}}/events/fast-track-usa-2016.html) - December 5, 2016 in Vienna, Austria
 *   [**AmCham Spain Event**]({{base.url}}/events/amcham-spain-2016.html) - November 16, 2016
 *   [**Paris Startup Pitch Competition**]({{base.url}}/events/paris-startup-competition-2016.html) - November 7, 2016
 *   [**Southwest USA Technology Opportunities**]({{base.url}}/events/gpec-2016.html) - November 4, 2016 in London, UK
@@ -96,5 +99,3 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 *   [**IEDC Annual Conference participation**]({{base.url}}/events/2016-iedc.html) - September 25-26, 2016 in Cleveland, OH
 *   [**Doing Business in the USA Masterclass**]({{base.url}}/events/snabc-case.html) - September 16, 2016 in Glasgow, UK
 *   [**From Export to U.S. Expansion**]({{base.url}}/events/2016-export-us-expansion.html) - September 14, 2016 in Manchester & Liverpool, UK
-*   [**Trade Winds-Latin America**]({{base.url}}/events/2016-trade-winds-latin-america.html) - September 7-9, 2016 in Santiago, Chile
-*   [**UKTI Event**]({{base.url}}/events/ukti-event.html) - June 21, 2016 in London, UK
