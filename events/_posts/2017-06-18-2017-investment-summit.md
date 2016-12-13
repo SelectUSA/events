@@ -28,7 +28,7 @@ We are lining up a roster of fantastic keynote speakers and panelists who will l
 
 _**For more information, including registration instructions, please visit the [Summit website](http://www.selectusasummit.us/)**_
 
-_[To view the latest updates, please visit the Summit section of our website.](https://www.selectusa.gov/selectusa-summit)_
+_To view the latest updates, please visit the [Summit section of our website.](https://www.selectusa.gov/selectusa-summit)_
 
 _[Sign up for email updates](https://public.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_1411)_
 
