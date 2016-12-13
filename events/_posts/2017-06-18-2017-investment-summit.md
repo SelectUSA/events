@@ -26,7 +26,9 @@ The Summit's theme – "Grow with US" – will highlight the innovative business
 
 We are lining up a roster of fantastic keynote speakers and panelists who will lay out a clear roadmap of how businesses of any size, and in any industry, can both benefit from and contribute to the U.S. economy – and grow with us.
 
-_For more information, including registration instructions, please visit the [Summit website](http://www.selectusasummit.us/)_
+_**For more information, including registration instructions, please visit the [Summit website](http://www.selectusasummit.us/)**_
+
+_[To view the latest updates, please visit the Summit section of our website.](https://www.selectusa.gov/selectusa-summit)_
 
 _[Sign up for email updates](https://public.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_1411)_
 
