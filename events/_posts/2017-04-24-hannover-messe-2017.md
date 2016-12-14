@@ -24,6 +24,8 @@ published: true
 
 **On April 24-28, 2017, the Messe is back.**
 
-Again this year, the pavilion will provide a platform for U.S. economic development organizations to showcase their regions to a significant number of potential investors attending the event. The Pavilion will be located in Hall 3. The finalized price is 1150 euro per m2; inclusive of catering, stand construction, water, electricity, Wi-Fi, daily cleaning, and security. For more pricing information please review our 2017 flyer that will be **COMING SOON**
+Again this year, the pavilion will provide a platform for U.S. economic development organizations to showcase their regions to a significant number of potential investors attending the event. The Pavilion will be located in Hall 3. The finalized price is 1150 euro per m2; inclusive of catering, stand construction, water, electricity, Wi-Fi, daily cleaning, and security. 
+
+_[For more pricing information please review our 2017 flyer](https://www.selectusa.gov/flyers/hm17-investment-pavilion-packages)._
 
 Please contact the [SelectUSA team](mailto:SUSAEvents@trade.gov) or [Ethan Carter](mailto:ECarter@hfusa.com) with Hannover Fairs USA with any questions or for more information.    
