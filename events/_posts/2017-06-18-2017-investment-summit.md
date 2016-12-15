@@ -20,7 +20,7 @@ published: true
 
 ### Save the date: 2017 SelectUSA Investment Summit
 
-Plans are well underway for the **2017 SelectUSA Investment Summit**, that will take place on **June 18-20, 2017**, at the **Gaylord Hotel - National Harbor, MD.** 
+Plans are well underway for the **2017 SelectUSA Investment Summit**, that will take place on **June 18-20, 2017**, at the **Gaylord National Resort and Convention Center** (Washington, D.C. area). 
 
 The Summit's theme – "Grow with US" – will highlight the innovative business climate in the United States and feature investment opportunities from every corner of the country. Increased networking time will provide new opportunities for a wide range of global investors to engage with state, regional, and local economic developers – all under one roof.
 
@@ -28,7 +28,7 @@ We are lining up a roster of fantastic keynote speakers and panelists who will l
 
 _**For more information, including registration instructions, please visit the [Summit website](http://www.selectusasummit.us/)**_
 
-_To view the latest updates, please visit the [Summit section of our website.](https://www.selectusa.gov/selectusa-summit)_
+_To view the latest updates, please visit the [2017 Summit section of our website.](https://www.selectusa.gov/2017-investment-summit)_
 
 _[Sign up for email updates](https://public.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_1411)_
 
