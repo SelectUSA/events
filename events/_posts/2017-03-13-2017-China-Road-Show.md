@@ -18,20 +18,24 @@ published: false
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.** The six-city show to **Changchun** (March 13), **Jinan** (March 15), **Zhengzhou** (March 17), ** Kunming** (March 20), **Xiamen** (March 21), and **Nanjing** (March 23) will offer U.S. state, local, regional, and tribal economic development organizations (EDOs) the opportunity to market their locations directly to investors across China.
+SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.** The six-city show to **Changchun** (March 13), **Jinan** (March 15), **Zhengzhou** (March 17), **Kunming** (March 20), **Xiamen** (March 21), and **Nanjing** (March 23) will offer U.S. state, local, regional, and tribal economic development organizations (EDOs) the opportunity to market their locations directly to investors across China.
 
 The **cost for U.S. EDOs is $4,000 for one participant, and $500 for each additional participant**.
 
-[**REGISTRATION LINK - COMING SOON!
+##**REGISTRATION LINK COMING SOON!
 
 ---
 
-_On **January 11, 2017**, at **8:00 a.m. ET** / **9:00 p.m. China time**, SelectUSA will hold a conference call for interested parties. To sign up for the call, please contact [SUSAEvents@trade.gov](mailto:susaevents@trade.gov). For additional information, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.
+SelectUSA will be hosting two **webinars** for interested parties
+**January 11, 2017**, at **8:00 a.m. ET** / **9:00 p.m. China time**
+**January 11, 2017**, at **7:00 p.m. ET** / **January 12, 2017** at **7:00 pm China time**
+
+To sign up for the call, please contact [SUSAEvents@trade.gov](mailto:susaevents@trade.gov). For additional information, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.
 
 ---
 **Changchun**, the capital city of Jilin province, is strong in automobile manufacturing,  particularly  passenger  vehicles.  The  local  government has been making efforts to diversify into other sectors and promote tourism, food processing, and rail vehicles and equipment.
 
-**Jinan** has been transformed by technology-intensive industires from a city supported by heavy industry and textiles to a city with a mroe diverse industrial structure.
+**Jinan** has been transformed by technology-intensive industires from a city supported by heavy industry and textiles to a city with a more diverse industrial structure.
 
 **Zhengzhou**'s pillar industries include auto, agriculture, equipment manufacturing, and textiles.  Investments from Henan to the United States in recent years indicate a strong interest in overseas business expansion.  
 
