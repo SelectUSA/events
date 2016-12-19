@@ -48,5 +48,3 @@ To sign up for the call, please contact [SUSAEvents@trade.gov](mailto:susaevents
 
 
 Check out our [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China) for more FDI information. 
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
