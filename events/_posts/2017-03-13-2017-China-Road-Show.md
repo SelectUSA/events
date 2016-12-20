@@ -9,7 +9,7 @@ calendar-end: 2017-03-23
 location-value: Changchun, Jinan, Zhengzhou, Kunming, Xiamen, Nanjing China
 location-type: International
 section: events
-published: false
+published: true
 ---
 
 ### 2017 China Road Show
