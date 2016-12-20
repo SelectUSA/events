@@ -28,7 +28,7 @@ The **cost for U.S. EDOs is $4,000 for one participant, and $500 for each additi
 
 SelectUSA will be hosting two **webinars** for interested parties
 **January 11, 2017**, at **8:00 a.m. ET** / **9:00 p.m. China time**
-**January 11, 2017**, at **7:00 p.m. ET** / **January 12, 2017** at **7:00 pm China time**
+**January 11, 2017**, at **7:00 p.m. ET** / **January 12, 2017** at **7:00 pm China time.**
 
 **To sign up for the webinar, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.**
 
