@@ -30,7 +30,7 @@ SelectUSA will be hosting two **webinars** for interested parties
 **January 11, 2017**, at **8:00 a.m. ET** / **9:00 p.m. China time**
 **January 11, 2017**, at **7:00 p.m. ET** / **January 12, 2017** at **7:00 pm China time**
 
-To sign up for the webinar, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.
+**To sign up for the webinar, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.**
 
 ---
 **Changchun**, the capital city of Jilin province, is strong in automobile manufacturing,  particularly  passenger  vehicles.  The  local  government has been making efforts to diversify into other sectors and promote tourism, food processing, and rail vehicles and equipment.
