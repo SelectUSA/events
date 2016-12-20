@@ -22,7 +22,7 @@ SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.**
 
 The **cost for U.S. EDOs is $4,000 for one participant, and $500 for each additional participant**.
 
-##**Please contact Shujuan CAO [Shujuan Cao](mailto:shujuancao@trade.gov) for more information or to register.
+#**Please contact Shujuan CAO [Shujuan Cao](mailto:shujuancao@trade.gov) for more information or to register.**
 
 ---
 
