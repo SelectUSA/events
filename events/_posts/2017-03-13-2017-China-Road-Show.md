@@ -22,7 +22,7 @@ SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.**
 
 The **cost for U.S. EDOs is $4,000 for one participant, and $500 for each additional participant**.
 
-##**REGISTRATION LINK COMING SOON!
+##**Please contact Shujuan CAO [Shujuan Cao](mailto:shujuancao@trade.gov) for more information or to register.
 
 ---
 
@@ -30,7 +30,7 @@ SelectUSA will be hosting two **webinars** for interested parties
 **January 11, 2017**, at **8:00 a.m. ET** / **9:00 p.m. China time**
 **January 11, 2017**, at **7:00 p.m. ET** / **January 12, 2017** at **7:00 pm China time**
 
-To sign up for the call, please contact [SUSAEvents@trade.gov](mailto:susaevents@trade.gov). For additional information, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.
+To sign up for the webinar, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.
 
 ---
 **Changchun**, the capital city of Jilin province, is strong in automobile manufacturing,  particularly  passenger  vehicles.  The  local  government has been making efforts to diversify into other sectors and promote tourism, food processing, and rail vehicles and equipment.
