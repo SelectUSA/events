@@ -20,7 +20,7 @@ published: false
 
 SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.** The six-city show to **Changchun** (March 13), **Jinan** (March 15), **Zhengzhou** (March 17), **Kunming** (March 20), **Xiamen** (March 21), and **Nanjing** (March 23) will offer U.S. state, local, regional, and tribal economic development organizations (EDOs) the opportunity to market their locations directly to investors across China.
 
-The **cost for U.S. EDOs is $4,000 for one participant, and $500 for each additional participant**.
+The **cost for U.S. EDOs is $4,000, plus $500 for each additional participant**.
 
 **Please contact [Shujuan Cao](mailto:shujuancao@trade.gov) for more information or to register.**
 
