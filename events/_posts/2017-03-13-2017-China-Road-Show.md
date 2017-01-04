@@ -24,15 +24,18 @@ The **cost for U.S. EDOs is $4,000, plus $500 for each additional participant**.
 
 **Please contact [Shujuan Cao](mailto:shujuan.cao@trade.gov) for more information or to register.**
 
+[_View/Download the Road Show flyer_](https://www.selectusa.gov/flyers/2017-China-Road-Show-flyer)
+
 ---
 
 SelectUSA will be hosting two **webinars** for interested parties
 **January 11, 2017**, at **8:00 a.m. ET** / **9:00 p.m. China time**
 **January 11, 2017**, at **7:00 p.m. ET** / **January 12, 2017** at **8:00 a.m. China time.**
 
-**To sign up for the webinar, please contact [John McKiel](mailto:john.mckiel@trade.gov) in Washington, D.C.**
+**To sign up for the webinar, please contact [Cathy Feig](mailto:cathy.feig@trade.gov) or [Shujuan Cao](mailto:shujuan.cao@trade.gov)**
 
 ---
+
 **Changchun**, the capital city of Jilin province, is strong in automobile manufacturing,  particularly  passenger  vehicles.  The  local  government has been making efforts to diversify into other sectors and promote tourism, food processing, and rail vehicles and equipment.
 
 **Jinan** has been transformed by technology-intensive industires from a city supported by heavy industry and textiles to a city with a more diverse industrial structure.
@@ -45,6 +48,6 @@ SelectUSA will be hosting two **webinars** for interested parties
 
 **Nanjing** is a center for business, research, and education.  Outbound investment from Jiangsu Province, where Nanjing is located, ranks among the top three provinces in China with trade flow exceeding $500 billion.  
 
-
+---
 
 Check out our [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China) for more FDI information. 
