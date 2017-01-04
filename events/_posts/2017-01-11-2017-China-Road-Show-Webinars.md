@@ -35,6 +35,8 @@ The **cost for U.S. EDOs is $4,000, plus $500 for each additional participant**.
 
 **Please contact [Shujuan Cao](mailto:shujuan.cao@trade.gov) for more information or to register.**
 
+[_View/Download the Road Show flyer_](https://www.selectusa.gov/flyers/2017-China-Road-Show-flyer)
+
 ---
 
 **Changchun**, the capital city of Jilin province, is strong in automobile manufacturing,  particularly  passenger  vehicles.  The  local  government has been making efforts to diversify into other sectors and promote tourism, food processing, and rail vehicles and equipment.
