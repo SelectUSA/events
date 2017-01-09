@@ -70,7 +70,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
-*   [**CES 2017**]({{base.url}})/events/medica-2016.html) - January 5-8, 2017
+*   [**CES 2017**]({{base.url}})/events/selectusa-ces2017-2016.html) - January 5-8, 2017
 *   [**MEDICA 2016**]({{base.url}}/events/medica-2016.html) - November 15, 2016
 *   [**NAFAN Convention 2016**]({{base.url}}/events/nafan-2016.html) - October 31, 2016 in Orlando, FL
 *   [**K Trade Fair 2016**]({{base.url}}/events/k-trade-fair-2016.html) - October 21, 2016 in Düsseldorf, Germany
