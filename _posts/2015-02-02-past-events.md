@@ -13,8 +13,6 @@ The past few years have been busy for SelectUSA. We've convened major policy con
 
 ## SelectUSA Investment Summit
 
-<span class="imgright"><a href="{{ site.baseurl }}{{post.url}}/2015-summit.html"><img src="http://www.commerce.gov/sites/commerce.gov/files/styles/scale_700w/public/16722605079_45ed7eff3f_o.jpg?itok=hY2r4t4y" alt="President Obama Addresses the 2015 SelectUSA Summit" width="300"></a></span>
-
 The SelectUSA Investment Summit brings the diversity of the United States together under one roof – enabling any business to find the people, the resources, and the market it needs to be successful.
 
 Please visit our <a href="https://www.selectusa.gov/selectusa-summit">Investment Summit page</a> to learn more about the events' outcomes, view our photos, watch recorded plenary sessions, and more.
@@ -72,16 +70,16 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
-*   [**SelectUSA at MEDICA 2016**]({{base.url}}/events/medica-2016.html) - November 15, 2016
-*   [**SelectUSA at NAFAN Convention 2016**]({{base.url}}/events/nafan-2016.html) - October 31, 2016 in Orlando, FL
-*   [**SelectUSA at K Trade Fair 2016**]({{base.url}}/events/k-trade-fair-2016.html) - October 21, 2016 in Düsseldorf, Germany
+*   [**CES 2017**]({{base.url}})/events/medica-2016.html) - January 5-8, 2017
+*   [**MEDICA 2016**]({{base.url}}/events/medica-2016.html) - November 15, 2016
+*   [**NAFAN Convention 2016**]({{base.url}}/events/nafan-2016.html) - October 31, 2016 in Orlando, FL
+*   [**K Trade Fair 2016**]({{base.url}}/events/k-trade-fair-2016.html) - October 21, 2016 in Düsseldorf, Germany
 *   [**International Franchise Expo**]({{base.url}}/events/IFE_2016.html) - June 16-18, 2016 in New York, NY
 *   [**BIO**]({{base.url}}/events/bio2016.html) - June 6, 2016 in San Francisco, CA
 *   [**Hannover Messe 2016**]({{base.url}}/events/selectusa-hannover-messe-2016.html) - April 25-29, 2016 in Hannover, Germany
 *   [**Canadian International Auto Show**]({{base.url}}events/canada-auto-show.html) - February 11, 2016 in Toronto, Canada
 *   [**CES 2016**]({{base.url}}/events/selectusa-ces2016.html) - January 5-9, 2016 in Las Vegas, NV
 *   [**Guangzhou Auto Show**]({{base.url}}/events/guangzhou-auto-show.html) - November 21, 2015 in Guangzhou, China
-*   [**Web Summit**]({{base.url}}/events/dublin-web-summit.html) - November 3-5, 2015 in Dublin, Ireland
 
 * * *
 
