@@ -18,7 +18,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-On **January 12, 2017**, at **1:00 p.m. ET** / **10:00 a.m. PT** (6 p.m. GMT), SelectUSA will hold a conference call for interested U.S. EDOs and service providers. To sign up for the call, please contact [Keida Ackerman](mailto:kedia.ackerman@trade.gov).
+On **January 12, 2017**, at **1:00 p.m. ET** / **10:00 a.m. PT** (6 p.m. GMT), SelectUSA will hold a conference call for interested U.S. EDOs and service providers. To sign up for the call, please contact [Keida Ackerman](mailto:keida.ackerman@trade.gov).
 
 #### _About the 2017 Mexico Road Show_
 
