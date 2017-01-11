@@ -30,7 +30,9 @@ _[For more pricing information please review our 2017 flyer](https://www.selectu
 
 #### Conference Call for Interested EDOs
 
-On **Friday, January 13**, at **1:00-2:00 p.m. ET** (6:00-7:00 p.m. GMT), SelectUSA will hold a informational conference call for EDOs interested in exhibiting in the U.S. Investment Pavilion. The dial-in number is +1-877-951-7311. To join the call, enter the participant passcode 5490433.
+On **Friday, January 13**, at **1:00-2:00 p.m. ET** (6:00-7:00 p.m. GMT), SelectUSA will hold a informational conference call for EDOs interested in exhibiting in the U.S. Investment Pavilion. The dial-in number is +1-877-951-7311. 
+
+To register for the call and receive call-in information, please contact [SUSAEvents@trade.gov](mailto:susaevents@trade.gov).
 
 ---
 
