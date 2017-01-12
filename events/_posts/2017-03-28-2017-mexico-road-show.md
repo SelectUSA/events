@@ -30,9 +30,13 @@ Participation at the event includes:
 
 For more information, please contact [Ruben Lugo](mailto:ruben.lugo@trade.gov) in Mexico City or [Keida Ackerman](mailto:keida.ackerman@trade.gov) in Washington, D.C.
 
+#### _[Register](https://connect.eventtia.com/en/dmz/4ab1/website)_
+
 ---
 
 On **January 12, 2017**, at **1:00 p.m. ET** / **10:00 a.m. PT** (6 p.m. GMT), SelectUSA will hold a conference call for interested U.S. EDOs and service providers. To sign up for the call, please contact [Keida Ackerman](mailto:kedia.ackerman@trade.gov).
+
+_[View presentation](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show)_
 
 ---
 
