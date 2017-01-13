@@ -9,7 +9,7 @@ calendar-end: 2017-03-02
 location-value: Rome, Italy
 location-type: International
 section: events
-published: true
+published: false
 ---
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") March 2, 2017
