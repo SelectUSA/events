@@ -22,7 +22,9 @@ SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.**
 
 The **cost for U.S. EDOs is $4,000, plus $500 for each additional participant**.
 
-**Please contact [Shujuan Cao](mailto:shujuan.cao@trade.gov) for more information or to register.**
+**Registration Deadline: _January 27**_
+
+**Please contact [John McKiel](mailto:john.mckiel@trade.gov) or [Janet Robertson](mailto:janet.robertson@trade.gov) for more information or to register.**
 
 [_View/Download the Road Show flyer_](https://www.selectusa.gov/flyers/2017-China-Road-Show-flyer)
 
