@@ -6,7 +6,7 @@ date-display-start: February 28
 date-display-end: March 2, 2017
 calendar-start: 2017-02-28
 calendar-end: 2017-03-02
-location-value: Milan, Vincenza and Rome, Italy
+location-value: Milan, Vicenza and Rome, Italy
 location-type: International
 section: events
 published: true
