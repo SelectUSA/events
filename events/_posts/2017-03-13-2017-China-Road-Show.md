@@ -18,17 +18,16 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.** The six-city show to **Changchun** (March 13), **Jinan** (March 15), **Zhengzhou** (March 17), **Kunming** (March 20), **Xiamen** (March 21), and **Nanjing** (March 23) will offer U.S. state, local, regional, and tribal economic development organizations (EDOs) the opportunity to market their locations directly to investors across China.
+SelectUSA's fourth [**China Road Show**](https://www.selectusa.gov/flyers/2017-China-Road-Show-flyer) will take place on **March 13-23, 2017.** The six-city show to **Changchun** (March 13), **Jinan** (March 15), **Zhengzhou** (March 17), **Kunming** (March 20), **Xiamen** (March 21), and **Nanjing** (March 23) will offer U.S. state, local, regional, and tribal economic development organizations (EDOs) the opportunity to market their locations directly to investors across China.
 
-<&nbsp>
-<&nbsp>
+---
+ 
 _**Who should apply?**_
 
 _U.S. EDOs_
 The **cost is $4,000, plus $500 for each additional participant**.
 
-<&nbsp>
-<&nbsp>
+ 
 _**Why should I apply?**_
 
 China is the third fastest-growing source of FDI in the United States, with total stock at almost **$21 billion**. The Road Show cities are industrial and manufacturing hubs with companies looking for their next investment destinations (_more information at the bottom of the page_). 
@@ -37,8 +36,7 @@ Check out our [China fact sheet](https://www.selectusa.gov/country-fact-sheet/Ch
 
 [_View/Download the informational webinar presentation_](https://wwww.selectusa.gov/conference-calls/2017-China-Road-Show-webinar-presentation)
 
-<&nbsp>
-<&nbsp>
+
 _**How do I apply?**_
 
 To register, please contact [John McKiel](mailto:john.mckiel@trade.gov). **Registration Deadline:** <u><bold>January 27</bold></u>
