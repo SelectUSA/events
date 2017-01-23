@@ -20,23 +20,25 @@ published: true
 
 SelectUSA's fourth **China Road Show** will take place on **March 13-23, 2017.** The six-city show to **Changchun** (March 13), **Jinan** (March 15), **Zhengzhou** (March 17), **Kunming** (March 20), **Xiamen** (March 21), and **Nanjing** (March 23) will offer U.S. state, local, regional, and tribal economic development organizations (EDOs) the opportunity to market their locations directly to investors across China.
 
-The **cost for U.S. EDOs is $4,000, plus $500 for each additional participant**.
 
-**Registration Deadline:** <u><bold>January 27</bold></u>
+_**Who should apply?**_
 
-**Please contact [John McKiel](mailto:john.mckiel@trade.gov) or [Janet Robertson](mailto:janet.robertson@trade.gov) for more information or to register.**
+_U.S. EDOs_
+The **cost is $4,000, plus $500 for each additional participant**.
 
-[_View/Download the Road Show flyer_](https://www.selectusa.gov/flyers/2017-China-Road-Show-flyer)
 
-[_View/Download the webinar presentation_](https://wwww.selectusa.gov/conference-calls/2017-China-Road-Show-webinar-presentation)
+_**Why should I apply?**_
 
-#### _Informational Webinar - January 11, 2017_
+China is the third fastest-growing source of FDI in the United States, with total stock at almost **$21 billion**. The Road Show cities are industrial and manufacturing hubs (more information at the bottom of the page). 
 
-SelectUSA will be hosting two **webinars** for interested parties
-**January 11, 2017**, at **8:00 a.m. ET** / **9:00 p.m. China time**
-**January 11, 2017**, at **7:00 p.m. ET** / **January 12, 2017** at **8:00 a.m. China time.**
+Check out our [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China) for more FDI information. 
 
-**To sign up for the webinar, please contact [Cathy Feig](mailto:cathy.feig@trade.gov) or [Shujuan Cao](mailto:shujuan.cao@trade.gov)**
+[_View/Download the informational webinar presentation_](https://wwww.selectusa.gov/conference-calls/2017-China-Road-Show-webinar-presentation)
+
+_**How do I apply?**_
+
+To register, please contact John McKiel. **Registration Deadline:** <u><bold>January 27</bold></u>
+
 
 #### _The Cities_
 
@@ -54,4 +56,4 @@ SelectUSA will be hosting two **webinars** for interested parties
 
 ---
 
-Check out our [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China) for more FDI information. 
+[_View/Download the Road Show flyer_](https://www.selectusa.gov/flyers/2017-China-Road-Show-flyer)
