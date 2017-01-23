@@ -25,9 +25,10 @@ SelectUSA's fourth [**China Road Show**](https://www.selectusa.gov/flyers/2017-C
 _**Who should apply?**_
 
 _U.S. EDOs_
+
 The **cost is $4,000, plus $500 for each additional participant**.
 
- 
+
 _**Why should I apply?**_
 
 China is the third fastest-growing source of FDI in the United States, with total stock at almost **$21 billion**. The Road Show cities are industrial and manufacturing hubs with companies looking for their next investment destinations (_more information at the bottom of the page_). 
