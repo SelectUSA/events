@@ -18,9 +18,22 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-Mark your calendars: The **2017 Mexico Road Show** has been set for **March 28-30, 2017**, in **Mexico City** and **Mérida**.
+Mark your calendars: The [**2017 Mexico Road Show**](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show) has been set for **March 28-30, 2017**, in **Mexico City** and **Mérida**.
 
 The Road Show will bring U.S. economic development organizations (EDOs) and service providers together with Mexican investors. Seminars in both Mexico City and Mérida will provide exclusive opportunities for Mexican firms to learn more about setting up or expanding business in the United States.
+
+---
+
+_**Who should apply?**_
+
+_U.S. EDOS and service providers_
+
+Pricing information can be found [here](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show)
+
+
+_**Why should I apply**_
+
+Mexico is one of the largest sources of foreign direct investment (FDI) in the United States. Total stock of Mexican FDI in the United States was **$35.5 billion** in 2015 alone, directly supporting **nearly 78,000 U.S. jobs**. For more information, check out the SelectUSA [FDI fact sheet](https://www.selectusa.gov/country-fact-sheet/Mexico) for Mexico.
 
 Participation at the event includes:
 
@@ -28,16 +41,11 @@ Participation at the event includes:
 * Pre-arranged, individual consultations with high-level decision makers
 * Networking opportunities
 
+
+_**How do I apply?**_
+
+_[Click here to register.](https://connect.eventtia.com/en/dmz/4ab1/website)_
+
 For more information, please contact [Ruben Lugo](mailto:ruben.lugo@trade.gov) in Mexico City or [Keida Ackerman](mailto:keida.ackerman@trade.gov) in Washington, D.C.
 
-#### _[Register](https://connect.eventtia.com/en/dmz/4ab1/website)_
-
 ---
-
-On **January 12, 2017**, at **1:00 p.m. ET** / **10:00 a.m. PT** (6 p.m. GMT), SelectUSA will hold a conference call for interested U.S. EDOs and service providers. To sign up for the call, please contact [Keida Ackerman](mailto:kedia.ackerman@trade.gov).
-
-_[View presentation](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show)_
-
----
-
-_Did you know that Mexico is one of the largest sources of foreign direct investment (FDI) in the United States? Total stock of Mexican FDI in the United States was **$35.5 billion** in 2015 alone, directly supporting **nearly 78,000 U.S. jobs**. For more information on FDI from Mexico, check out the SelectUSA [FDI fact sheet](https://www.selectusa.gov/country-fact-sheet/Mexico)._
