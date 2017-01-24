@@ -24,6 +24,7 @@ SelectUSA's second **India Road Show** is set for **March 6-10, 2017.** The thre
 _**Who should apply?**_
 
 _U.S. EDOs_
+
 The **cost is $2,800 for up to two people**, and which covers full participation in meetings, seminars, and networking events, table-top/booth space, and matchmaking in all three cities.
 
 
