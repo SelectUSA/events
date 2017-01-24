@@ -29,6 +29,7 @@ _U.S. EDOs_
 The **cost is $4,000, plus $500 for each additional participant**.
 
 
+
 _**Why should I apply?**_
 
 China is the third fastest-growing source of FDI in the United States, with total stock at almost **$21 billion**. The Road Show cities are industrial and manufacturing hubs with companies looking for their next investment destinations (_more information at the bottom of the page_). 
@@ -36,6 +37,7 @@ China is the third fastest-growing source of FDI in the United States, with tota
 Check out our [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China) for more FDI information. 
 
 [_View/Download the informational webinar presentation_](https://wwww.selectusa.gov/conference-calls/2017-China-Road-Show-webinar-presentation)
+
 
 
 _**How do I apply?**_
