@@ -36,7 +36,7 @@ Check out our [India fact sheet](https://www.selectusa.gov/country-fact-sheet/In
 
 _**How do I apply?**_
 
-[**_Click here to register_**](https://connect.eventtia.com/en/dmz/2017indiaroadshow/website)
+[_Click here to register_](https://connect.eventtia.com/en/dmz/2017indiaroadshow/website)
 
 For additional information, please contat [Rahul Padmanabha](mailto:rahul.padmanabha@trade.gov) in Bangalore or [Seth Isenberg](mailto:seth.isenberg@trade.gov) in Washington, D.C.
 
