@@ -31,7 +31,8 @@ _U.S. EDOS and service providers_
 Pricing information can be found [here](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show)
 
 
-_**Why should I apply**_
+
+_**Why should I apply?**_
 
 Mexico is one of the largest sources of foreign direct investment (FDI) in the United States. Total stock of Mexican FDI in the United States was **$35.5 billion** in 2015 alone, directly supporting **nearly 78,000 U.S. jobs**. For more information, check out the SelectUSA [FDI fact sheet](https://www.selectusa.gov/country-fact-sheet/Mexico) for Mexico.
 
@@ -40,6 +41,7 @@ Participation at the event includes:
 * Full-day conference programs
 * Pre-arranged, individual consultations with high-level decision makers
 * Networking opportunities
+
 
 
 _**How do I apply?**_
