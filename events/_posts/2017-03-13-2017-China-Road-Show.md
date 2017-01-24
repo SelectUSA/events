@@ -42,7 +42,7 @@ Check out our [China fact sheet](https://www.selectusa.gov/country-fact-sheet/Ch
 
 _**How do I apply?**_
 
-To register, please contact [John McKiel](mailto:john.mckiel@trade.gov). **Registration Deadline:** <u><bold>February 14</bold></u>
+To register, please contact [John McKiel](mailto:john.mckiel@trade.gov). **Registration Deadline:** <u><bold>February 3</bold></u>
 
 ---
 
