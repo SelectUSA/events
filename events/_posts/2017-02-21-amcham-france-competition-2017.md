@@ -30,6 +30,6 @@ This includes (but is not limited to):
 
 _For more information, please visit the [AmCham France website](http://www.amchamfrance.org/en/event/Global-Growth-Launchpad-Pitch-Competition/1034) or contact [Marie-Josee Andrieu](mailto:marie-josee.andrieu@trade.gov)._
 
-_Unfortunately, the application deadline has passed. However, we encourage you to follow [AmCham France](https://twitter.com/amchamfrance) and [SelectUSA](https://twitter.com/SelectUSA) on TWitter for live coverage of the event on February 21._
+_Unfortunately, the application deadline has passed. However, we encourage you to follow [AmCham France](https://twitter.com/amchamfrance) and [SelectUSA](https://twitter.com/SelectUSA) on Twitter for live coverage of the event on February 21._
 
 _Download/View the event flyer[LINK TO COME]_
