@@ -18,7 +18,7 @@ published: false
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-The second edition of the American Chamber of Commerce's (AmCham) [Global Growth Launchpad](http://www.amchamfrance.org/en/event/Global-Growth-Launchpad-Pitch-Competition/1034) is back on **February 21, 2017**, in Paris, France. This unique event, organized by AmCham France's NextGen Committee and sponsored by SelectUSA and many other organizations, allows startups to pitch their companies to some of the world's biggest companies, entrepreneurs, incubators, and accelerators. The prize: a trip to New York to meet with consultants and startup incubators.
+The second edition of the American Chamber of Commerce's (AmCham) [Global Growth Launchpad](http://www.amchamfrance.org/en/event/Global-Growth-Launchpad-Pitch-Competition/1034) is back on **February 21, 2017**, in **Paris, France**. This unique event, organized by AmCham France's NextGen Committee and sponsored by SelectUSA and many other organizations, allows startups to pitch their companies to some of the world's biggest companies, entrepreneurs, incubators, and accelerators. The prize: a trip to New York to meet with consultants and startup incubators.
 
 This includes (but is not limited to):
 
@@ -30,6 +30,6 @@ This includes (but is not limited to):
 
 _For more information, please visit the [AmCham France website](http://www.amchamfrance.org/en/event/Global-Growth-Launchpad-Pitch-Competition/1034) or contact [Marie-Josee Andrieu](mailto:marie-josee.andrieu@trade.gov)._
 
-_Unfortunately, the application deadline has passed. However, we encourage you to follow [AmCham France](https://twitter.com/amchamfrance) and [SelectUSA](https://twitter.com/SelectUSA) on TWitter for live coverage of the event on February 21.
+_Unfortunately, the application deadline has passed. However, we encourage you to follow [AmCham France](https://twitter.com/amchamfrance) and [SelectUSA](https://twitter.com/SelectUSA) on TWitter for live coverage of the event on February 21._
 
 _Download/View the event flyer[LINK TO COME]_
