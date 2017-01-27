@@ -9,7 +9,7 @@ calendar-end: 2017-04-04
 location-value: Paris, France
 location-type: International
 section: events
-published: false
+published: true
 ---
 
 ### Global Growth Launchpad - AmCham France Startup Pitch Competition
