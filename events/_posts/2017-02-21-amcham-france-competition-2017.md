@@ -32,4 +32,4 @@ _For more information, please visit the [AmCham France website](http://www.amcha
 
 _Unfortunately, the application deadline has passed. However, we encourage you to follow [AmCham France](https://twitter.com/amchamfrance) and [SelectUSA](https://twitter.com/SelectUSA) on Twitter for live coverage of the event on February 21._
 
-_Download/View the event flyer[LINK TO COME]_
+_Download/View the event flyer[https://www.selectusa.gov/flyers/global-growth-launchpad-2017]_
