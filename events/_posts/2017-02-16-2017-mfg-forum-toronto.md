@@ -24,4 +24,6 @@ The sixth edition of the SelectUSA Manufacturing Forum at the Canadian Internati
 
 _For more information, please contact [Ruben Lugo](mailto:ruben.lugo@trade.gov) in Mexico City or [Keida Ackerman](mailto:keida.ackerman@trade.gov) in Washington, D.C._
 
+_[View/Download the event agenda](https://www.selectusa.gov/flyers/mfg-forum-agenda-cais-2017)_
+
 ---
