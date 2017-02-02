@@ -4,8 +4,8 @@ layout: sidebar
 title: Startup Pitch Competition
 date-display-start: February 21, 2017
 date-display-end: February 21, 2017
-calendar-start: 2017-03-31
-calendar-end: 2017-04-04
+calendar-start: 2017-02-21
+calendar-end: 2017-02-21
 location-value: Paris, France
 location-type: International
 section: events
