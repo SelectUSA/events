@@ -36,8 +36,6 @@ Participation at the event includes:
 
 For more information, please contact [Ruben Lugo](mailto:ruben.lugo@trade.gov) in Mexico City or [Keida Ackerman](mailto:keida.ackerman@trade.gov) in Washington, D.C.
 
-#### _[Register](https://connect.eventtia.com/en/dmz/4ab1/website)_
-
 ---
 
 _Did you know that Mexico is one of the largest sources of foreign direct investment (FDI) in the United States? Total stock of Mexican FDI in the United States was **$35.5 billion** in 2015 alone, directly supporting **nearly 78,000 U.S. jobs**. For more information on FDI from Mexico, check out the SelectUSA [FDI fact sheet](https://www.selectusa.gov/country-fact-sheet/Mexico)._
