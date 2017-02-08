@@ -28,9 +28,6 @@ _**Who should apply?**_
 
 _U.S. EDOS and service providers_
 
-Pricing information can be found [here](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show)
-
-
 
 _**Why should I apply?**_
 
@@ -42,11 +39,6 @@ Participation at the event includes:
 * Pre-arranged, individual consultations with high-level decision makers
 * Networking opportunities
 
-
-
-_**How do I apply?**_
-
-_[Click here to register.](https://connect.eventtia.com/en/dmz/4ab1/website)_
 
 For more information, please contact [Ruben Lugo](mailto:ruben.lugo@trade.gov) in Mexico City or [Keida Ackerman](mailto:keida.ackerman@trade.gov) in Washington, D.C.
 
