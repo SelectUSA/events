@@ -18,7 +18,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-Mark your calendars: The [**2017 Mexico Road Show**](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show) has been set for **March 28-30, 2017**, in **Mexico City** and **Mérida**.
+#### _The [2017 Mexico Road Show](https://www.selectusa.gov/conference-calls/2017-Mexico-Road-Show) has been postponed to a later date and will not take place in March. Stay tuned for updates._
 
 The Road Show will bring U.S. economic development organizations (EDOs) and service providers together with Mexican investors. Seminars in both Mexico City and Mérida will provide exclusive opportunities for Mexican firms to learn more about setting up or expanding business in the United States.
 
