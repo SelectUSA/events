@@ -87,6 +87,7 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
+*   [**Hokuriki-U.S. Business Seminars**]({{base.url}}/events/hokuriku-2017) - February 6-8, 2017 in Fukui, Kanazawa and Toyama, Japan
 *   [**Tech Seminar in Budapest**]({{base.url}}/events/tech-sem-budapest) - January 25, 2017 in Budapest, Hungary
 *   [**Asian Financial Forum 2017**]({{base.url}}/events/selectusa-aff-2017) - January 16-17, 2017 in Hong Kong, China
 *   [**SelectUSA Canada 2016**]({{base.url}}/events/selectusa-canada-2016) - December 6, 2016 in Montreal, Canada
@@ -96,4 +97,3 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 *   [**Southwest USA Technology Opportunities**]({{base.url}}/events/gpec-2016.html) - November 4, 2016 in London, UK
 *   [**Journey to the Web Summit**]({{base.url}}/events/microsoft-websummit-2016.html) - October 18, 2016 in Lisbon, Portugal
 *   [**FDI By the Numbers**]({{base.url}}/events/fdi-webinar-sept-2016.html) - September 27, 2016 (_Webinar_)
-*   [**IEDC Annual Conference participation**]({{base.url}}/events/2016-iedc.html) - September 25-26, 2016 in Cleveland, OH
