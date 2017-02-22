@@ -87,7 +87,7 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
-*   [**Hokuriki-U.S. Business Seminars**]({{base.url}}/events/hokuriku-2017) - February 6-8, 2017 in Fukui, Kanazawa and Toyama, Japan
+*   [**Hokuriku-U.S. Business Seminars**]({{base.url}}/events/hokuriku-2017) - February 6-8, 2017 in Fukui, Kanazawa and Toyama, Japan
 *   [**Tech Seminar in Budapest**]({{base.url}}/events/tech-sem-budapest) - January 25, 2017 in Budapest, Hungary
 *   [**Asian Financial Forum 2017**]({{base.url}}/events/selectusa-aff-2017) - January 16-17, 2017 in Hong Kong, China
 *   [**SelectUSA Canada 2016**]({{base.url}}/events/selectusa-canada-2016) - December 6, 2016 in Montreal, Canada
