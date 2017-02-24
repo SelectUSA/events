@@ -24,11 +24,11 @@ SelectUSA and the U.S. Embassy in Switerland, in cooperation with the Chamber of
 
 Participants will have the opportunity to:
 
-•	Meet U.S. government officials;
-•	Hear from Swiss and U.S. investors on how to secure financing;
-•	Meet with U.S. economic developers and state officials to learn more about state-level incentives;
-•	Ask legal experts about regulatory considerations
-•	Hear a testimonial from a Swiss company that recently invested in the United States; and
-* Learn more about the upcoming [2017 SelectUSA Investment Summit](http://www.selectusasummit.us/), including how to register
+* Meet U.S. government officials;
+* Hear from Swiss and U.S. investors on how to secure financing;
+* Meet with U.S. economic developers and state officials to learn more about state-level incentives;
+* Ask legal experts about regulatory considerations;
+* Hear a testimonial from a Swiss company that recently invested in the United States; and
+* Learn more about the upcoming 2017 SelectUSA Investment Summit, including how to register
 
-_For more information, please contact Investment Specialist [Sandor Galambos](mailto:sandor.galambos@trade.gov).
+_For more information, please contact Investment Specialist [Sandor Galambos](mailto:sandor.galambos@trade.gov)._
