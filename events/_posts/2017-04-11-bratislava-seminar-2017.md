@@ -29,5 +29,6 @@ The program includes panel discussions on:
 * Practical aspects of initiating your business in the U.S. including questions relating to U.S. visas
 * Accessing finance and other funding opportunities
 * Testimonials by Slovak companies that have successfully expanded to the U.S.
+* Information, including registration, on the upcoming [2017 SelectUSA Investment Summit](http://www.selectusasummit.us/)
 
 _For more information on the seminar, please contact [Marian Volent](mailto:marian.volent@trade.gov)_
