@@ -30,4 +30,4 @@ The program includes panel discussions on:
 * Accessing finance and other funding opportunities
 * Testimonials by Slovak companies that have successfully expanded to the U.S.
 
-_For more information on the seminar, please contact [Marian Volent](marian.volent@trade.gov)_
+_For more information on the seminar, please contact [Marian Volent](mailto:marian.volent@trade.gov)_
