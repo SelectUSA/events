@@ -9,7 +9,7 @@ calendar-end: 2017-03-30
 location-value: Mexico City and Mérida, Mexico
 location-type: International
 section: events
-published: true
+published: false
 ---
 
 ### 2017 Mexico Road Show
