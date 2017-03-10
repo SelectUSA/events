@@ -1,7 +1,7 @@
 ---
 permalink: "events/fifty-states-finland.html"
 layout: sidebar
-title: "The Fifty States" in Finland
+title: The Fifty States event
 date-display-start: June 15, 2017
 date-display-end: June 15, 2017
 calendar-start: 2017-06-15
