@@ -53,6 +53,8 @@ If you missed it, you can still check out the presentations,&nbsp;[available onl
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
+*   [**China**]({{base.url}}/events/2017-china-road-show.html) - March 13-23, 2017
+*   [**India**]({{base.url}}/events/2017-india-road-show.html) - March 6-10, 2017
 *   [**Brazil**]({{base.url}}/events/brazil-2016.html) - December 5-9, 2016
 *   [**Taiwan**]({{base.url}}events/2016-taiwan-road-show.html) - September 28-30, 2016
 *   [**Japan**]({{base.url}}events/japan-road-show.html) - February 1-5, 2016
@@ -87,13 +89,13 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
+*   [**Healthcare Startup Mission**]({{base.url}}/european-hc-investment.html) - March 6-10, 2017 in Pittsburgh, PA, Cleveland, OH, and Austin, TX
+*   [**2017 Italy Seminars**]({{base.url}}/events/2017-Italy-Seminars.html) - February 28 - March 2, 2017 in Milan, Vicenza, and Rome, Italy
+*   [**Startup Pitch Competition**]({{base.url}}/events/amcham-france-competition-2017.html) - February 21, 2017 in Paris, France
+*   [**Manufacturing Forum**]({{base.url}}/events/2017-mfg-forum-toronto.html) - February 16, 2017 in Toronto, Canada
 *   [**Hokuriku-U.S. Business Seminars**]({{base.url}}/events/hokuriku-2017) - February 6-8, 2017 in Fukui, Kanazawa and Toyama, Japan
 *   [**Tech Seminar in Budapest**]({{base.url}}/events/tech-sem-budapest) - January 25, 2017 in Budapest, Hungary
 *   [**Asian Financial Forum 2017**]({{base.url}}/events/selectusa-aff-2017) - January 16-17, 2017 in Hong Kong, China
 *   [**SelectUSA Canada 2016**]({{base.url}}/events/selectusa-canada-2016) - December 6, 2016 in Montreal, Canada
 *   [**Fast Track USA**]({{base.url}}/events/fast-track-usa-2016.html) - December 5, 2016 in Vienna, Austria
 *   [**AmCham Spain Event**]({{base.url}}/events/amcham-spain-2016.html) - November 16, 2016
-*   [**Paris Startup Pitch Competition**]({{base.url}}/events/paris-startup-competition-2016.html) - November 7, 2016
-*   [**Southwest USA Technology Opportunities**]({{base.url}}/events/gpec-2016.html) - November 4, 2016 in London, UK
-*   [**Journey to the Web Summit**]({{base.url}}/events/microsoft-websummit-2016.html) - October 18, 2016 in Lisbon, Portugal
-*   [**FDI By the Numbers**]({{base.url}}/events/fdi-webinar-sept-2016.html) - September 27, 2016 (_Webinar_)
