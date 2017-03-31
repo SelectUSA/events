@@ -89,6 +89,9 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
+*   [**FDI Symposium**]({{base.url}}/fdi-symposium-cincinnati.html) - March 31, 2017 in Cincinnati, OH
+*   [**AIM 2017**]({{base.url}}/selectusa-aim-2017.html) - March 31-April 4, 2017 in Dubai, UAE
+*   [**Doing Business in the USA**]({{base.url}}/biz-seminar-prague.html) - March 28, 2017 in Prague, Czech Republic
 *   [**Healthcare Startup Mission**]({{base.url}}/european-hc-investment.html) - March 6-10, 2017 in Pittsburgh, PA, Cleveland, OH, and Austin, TX
 *   [**2017 Italy Seminars**]({{base.url}}/events/2017-Italy-Seminars.html) - February 28 - March 2, 2017 in Milan, Vicenza, and Rome, Italy
 *   [**Startup Pitch Competition**]({{base.url}}/events/amcham-france-competition-2017.html) - February 21, 2017 in Paris, France
@@ -96,6 +99,3 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 *   [**Hokuriku-U.S. Business Seminars**]({{base.url}}/events/hokuriku-2017) - February 6-8, 2017 in Fukui, Kanazawa and Toyama, Japan
 *   [**Tech Seminar in Budapest**]({{base.url}}/events/tech-sem-budapest) - January 25, 2017 in Budapest, Hungary
 *   [**Asian Financial Forum 2017**]({{base.url}}/events/selectusa-aff-2017) - January 16-17, 2017 in Hong Kong, China
-*   [**SelectUSA Canada 2016**]({{base.url}}/events/selectusa-canada-2016) - December 6, 2016 in Montreal, Canada
-*   [**Fast Track USA**]({{base.url}}/events/fast-track-usa-2016.html) - December 5, 2016 in Vienna, Austria
-*   [**AmCham Spain Event**]({{base.url}}/events/amcham-spain-2016.html) - November 16, 2016
