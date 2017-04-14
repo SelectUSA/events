@@ -18,16 +18,17 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-With the [SelectUSA Investment Summit](http://www.selectusasummit.us/?utm_source=website&utm_campaign=GrowWithUS17&utm_medium=selectusa) (June 18-20, 2017) only a couple months away, we are excited to share the latest updates with U.S. economic developers interested in attending. The April "Know Before You Go" call will be held **Thursday, April 20, at 1:00 p.m. EDT / 10:00 a.m. PDT (6:00 p.m. GMT)**.
+With the [SelectUSA Investment Summit](http://www.selectusasummit.us/?utm_source=website&utm_campaign=GrowWithUS17&utm_medium=selectusa) (June 18-20, 2017) only a couple months away, we are excited to share the latest updates with U.S. economic developers interested in attending. The April "Know Before You Go" call will be held **Thursday, April 20, at 1:00 p.m. EDT / 10:00 a.m. PDT**.
 
-Call participants will gain information on sponsorship and exhibit opportunities, the events calendar, and more. While this information will be most useful for U.S. economic development organizations, all are welcome!
+Call participants will gain information on sponsorship and exhibit opportunities, and more, including:
 
-Topics to be discussed include:
-
-* Rural Shoring integration
+* Summit agenda
+* Rural Shoring Integration
 * Exhibitor Kit
-* Exhibition Hall layout
-* Summit best practices
+* Exhibition Hall Layout
+* Summit Best Practices
+
+_While this information will be most useful for U.S. economic development organizations, all are welcome!_
 
 _To receive dial-in information and additional documents, please contact [SUSAEvents@trade.gov](mailto:susaevents@trade.gov) with "April Summit call" in the subject line._
 
