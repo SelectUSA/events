@@ -72,6 +72,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
+*   [**BIO Korea 2017**]({{base.url}}/events/bio-korea-2017.html) - April 12-14, 2017 in Seoul, South Korea
 *   [**Cybertech 2017**]({{base.url}}/events/cybertech-2017.html) - January 29-February 1, 2017 in Tel Aviv, Israel
 *   [**MEDICA 2016**]({{base.url}}/events/medica-2016.html) - November 15, 2016
 *   [**NAFAN Convention 2016**]({{base.url}}/events/nafan-2016.html) - October 31, 2016 in Orlando, FL
@@ -81,7 +82,6 @@ SelectUSA has increased its presence at industry events both domestically and ov
 *   [**Hannover Messe 2016**]({{base.url}}/events/selectusa-hannover-messe-2016.html) - April 25-29, 2016 in Hannover, Germany
 *   [**Canadian International Auto Show**]({{base.url}}events/canada-auto-show.html) - February 11, 2016 in Toronto, Canada
 *   [**CES 2016**]({{base.url}}/events/selectusa-ces2016.html) - January 5-9, 2016 in Las Vegas, NV
-*   [**Guangzhou Auto Show**]({{base.url}}/events/guangzhou-auto-show.html) - November 21, 2015 in Guangzhou, China
 
 * * *
 
@@ -89,13 +89,13 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
-*   [**FDI Symposium**]({{base.url}}/fdi-symposium-cincinnati.html) - March 31, 2017 in Cincinnati, OH
-*   [**AIM 2017**]({{base.url}}/selectusa-aim-2017.html) - March 31-April 4, 2017 in Dubai, UAE
-*   [**Doing Business in the USA**]({{base.url}}/biz-seminar-prague.html) - March 28, 2017 in Prague, Czech Republic
-*   [**Healthcare Startup Mission**]({{base.url}}/european-hc-investment.html) - March 6-10, 2017 in Pittsburgh, PA, Cleveland, OH, and Austin, TX
+*   [**Seminar in Bratislava**]({{base.url}}/events/bratislava-seminar-2017.html) - April 11, 2017 in Bratislava, Slovakia
+*   [**FED Forum 2017**]({{base.url}}events/iedc-fedforum-2017.html) - April 9-11, 2017 in Washington, D.C.
+*   [**techUK/Fairfax County Event**]({{base.url}}/events/techuk-fceda-2017.html) - April 5, 2017 in London, UK
+*   [**World Trade Conference**]({{base.url}}/events/gcta-wtc-2017.html) - April 4, 2017 in New Orleans, LA
+*   [**FDI Symposium**]({{base.url}}/events/fdi-symposium-cincinnati.html) - March 31, 2017 in Cincinnati, OH
+*   [**AIM 2017**]({{base.url}}/events/selectusa-aim-2017.html) - March 31-April 4, 2017 in Dubai, UAE
+*   [**Doing Business in the USA**]({{base.url}}/events/biz-seminar-prague.html) - March 28, 2017 in Prague, Czech Republic
+*   [**Healthcare Startup Mission**]({{base.url}}events/european-hc-investment.html) - March 6-10, 2017 in Pittsburgh, PA, Cleveland, OH, and Austin, TX
 *   [**2017 Italy Seminars**]({{base.url}}/events/2017-Italy-Seminars.html) - February 28 - March 2, 2017 in Milan, Vicenza, and Rome, Italy
 *   [**Startup Pitch Competition**]({{base.url}}/events/amcham-france-competition-2017.html) - February 21, 2017 in Paris, France
-*   [**Manufacturing Forum**]({{base.url}}/events/2017-mfg-forum-toronto.html) - February 16, 2017 in Toronto, Canada
-*   [**Hokuriku-U.S. Business Seminars**]({{base.url}}/events/hokuriku-2017) - February 6-8, 2017 in Fukui, Kanazawa and Toyama, Japan
-*   [**Tech Seminar in Budapest**]({{base.url}}/events/tech-sem-budapest) - January 25, 2017 in Budapest, Hungary
-*   [**Asian Financial Forum 2017**]({{base.url}}/events/selectusa-aff-2017) - January 16-17, 2017 in Hong Kong, China
