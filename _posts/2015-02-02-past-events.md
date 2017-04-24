@@ -72,6 +72,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
+*   [**Hannover Messe 2017**]({{base.url}}/events/hannover-messe-2017.html) - April 24-28, 2017 in Hannover, Germany
 *   [**BIO Korea 2017**]({{base.url}}/events/bio-korea-2017.html) - April 12-14, 2017 in Seoul, South Korea
 *   [**Cybertech 2017**]({{base.url}}/events/cybertech-2017.html) - January 29-February 1, 2017 in Tel Aviv, Israel
 *   [**MEDICA 2016**]({{base.url}}/events/medica-2016.html) - November 15, 2016
@@ -81,7 +82,6 @@ SelectUSA has increased its presence at industry events both domestically and ov
 *   [**BIO**]({{base.url}}/events/bio2016.html) - June 6, 2016 in San Francisco, CA
 *   [**Hannover Messe 2016**]({{base.url}}/events/selectusa-hannover-messe-2016.html) - April 25-29, 2016 in Hannover, Germany
 *   [**Canadian International Auto Show**]({{base.url}}events/canada-auto-show.html) - February 11, 2016 in Toronto, Canada
-*   [**CES 2016**]({{base.url}}/events/selectusa-ces2016.html) - January 5-9, 2016 in Las Vegas, NV
 
 * * *
 
