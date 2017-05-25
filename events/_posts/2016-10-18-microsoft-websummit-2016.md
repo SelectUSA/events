@@ -4,8 +4,8 @@ layout: sidebar
 title: Journey to the Web Summit
 date-display-start: October 18, 2016
 date-display-end: October 18, 2016
-calendar-start: 2017-10-18
-calendar-end: 2017-10-18
+calendar-start: 2016-10-18
+calendar-end: 2016-10-18
 location-value: Lisbon, Portugal
 location-type: International
 section: events
