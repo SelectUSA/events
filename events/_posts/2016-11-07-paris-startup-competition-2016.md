@@ -4,8 +4,8 @@ layout: sidebar
 title: Paris Startup Pitch Competition
 date-display-start: November 7, 2016
 date-display-end: November 7, 2016
-calendar-start: 2017-11-07
-calendar-end: 2017-11-07
+calendar-start: 2016-11-07
+calendar-end: 2016-11-07
 location-value: Paris, France
 location-type: International
 section: events
@@ -14,7 +14,7 @@ published: true
 
 ### Paris Startup Pitch Competition
 
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
