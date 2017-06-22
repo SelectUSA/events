@@ -72,6 +72,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
+*   [**BIO 2017**]({{base.url}}/events/bio.2017.html) - June 19, 2017 in San Diego, CA
 *   [**Hannover Messe 2017**]({{base.url}}/events/hannover-messe-2017.html) - April 24-28, 2017 in Hannover, Germany
 *   [**BIO Korea 2017**]({{base.url}}/events/bio-korea-2017.html) - April 12-14, 2017 in Seoul, South Korea
 *   [**Cybertech 2017**]({{base.url}}/events/cybertech-2017.html) - January 29-February 1, 2017 in Tel Aviv, Israel
@@ -79,9 +80,8 @@ SelectUSA has increased its presence at industry events both domestically and ov
 *   [**NAFAN Convention 2016**]({{base.url}}/events/nafan-2016.html) - October 31, 2016 in Orlando, FL
 *   [**K Trade Fair 2016**]({{base.url}}/events/k-trade-fair-2016.html) - October 21, 2016 in Düsseldorf, Germany
 *   [**International Franchise Expo**]({{base.url}}/events/IFE_2016.html) - June 16-18, 2016 in New York, NY
-*   [**BIO**]({{base.url}}/events/bio2016.html) - June 6, 2016 in San Francisco, CA
+*   [**BIO 2016**]({{base.url}}/events/bio2016.html) - June 6, 2016 in San Francisco, CA
 *   [**Hannover Messe 2016**]({{base.url}}/events/selectusa-hannover-messe-2016.html) - April 25-29, 2016 in Hannover, Germany
-*   [**Canadian International Auto Show**]({{base.url}}events/canada-auto-show.html) - February 11, 2016 in Toronto, Canada
 
 * * *
 
@@ -89,6 +89,9 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
+*   [**2017 SelectUSA Investment Summit**](http://www.selectusa.gov/2017-investment-summit.html) - June 18-20, 2017 in National Harbor, MD (_Washington, D.C. metro area_)
+*   [**The Fifty States**]({{base.url}}/events/fifty-states-finland.html) - June 15, 2017 in Helsinki, Finland
+*   [**Seminar in Lugano**]({{base.url}}/events/lugano-seminar.html) - June 7, 2017 in Lugano, Switzerland
 *   [**Seminar in Bratislava**]({{base.url}}/events/bratislava-seminar-2017.html) - April 11, 2017 in Bratislava, Slovakia
 *   [**FED Forum 2017**]({{base.url}}events/iedc-fedforum-2017.html) - April 9-11, 2017 in Washington, D.C.
 *   [**techUK/Fairfax County Event**]({{base.url}}/events/techuk-fceda-2017.html) - April 5, 2017 in London, UK
@@ -96,6 +99,3 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 *   [**FDI Symposium**]({{base.url}}/events/fdi-symposium-cincinnati.html) - March 31, 2017 in Cincinnati, OH
 *   [**AIM 2017**]({{base.url}}/events/selectusa-aim-2017.html) - March 31-April 4, 2017 in Dubai, UAE
 *   [**Doing Business in the USA**]({{base.url}}/events/biz-seminar-prague.html) - March 28, 2017 in Prague, Czech Republic
-*   [**Healthcare Startup Mission**]({{base.url}}events/european-hc-investment.html) - March 6-10, 2017 in Pittsburgh, PA, Cleveland, OH, and Austin, TX
-*   [**2017 Italy Seminars**]({{base.url}}/events/2017-Italy-Seminars.html) - February 28 - March 2, 2017 in Milan, Vicenza, and Rome, Italy
-*   [**Startup Pitch Competition**]({{base.url}}/events/amcham-france-competition-2017.html) - February 21, 2017 in Paris, France
