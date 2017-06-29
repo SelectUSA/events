@@ -22,6 +22,9 @@ On **Tuesday, July 11** at **7:30 a.m. – 8:30 a.m. EDT (5:00 p.m. – 6:00 p.m
 
 **To register for the webinar, please click [here](https://emenuapps.ita.doc.gov/ePublic/event/editWebReg.do?SmartCode=7QCU).**  
 
+
+**[_View/Download the Webinar flyer_](https://www.selectusa.gov/flyers/2017-India-Michigan-webinar-flyer)**
+
 ---
 
 #### _More Information on the Webinar_
@@ -32,4 +35,4 @@ The webinar will feature speakers from the U.S. Department of Commerce, the Mich
 
 ---
 
-Check out our [India fact sheet](https://www.selectusa.gov/country-fact-sheet/India) and our [Michigan fact sheet](https://www.selectusa.gov/state-fact-sheet/Michigan)  for additional FDI information.
+Check out our [India fact sheet](https://www.selectusa.gov/country-fact-sheet/India) and our [Michigan fact sheet](https://www.selectusa.gov/state-fact-sheet/Michigan) for additional FDI information.
