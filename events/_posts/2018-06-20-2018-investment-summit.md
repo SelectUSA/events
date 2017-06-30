@@ -9,7 +9,7 @@ calendar-end: 2018-06-22
 location-value: Washington, D.C.
 location-type: Domestic
 section: events
-published: false
+published: true
 ---
 
 # {{ page.title}}
