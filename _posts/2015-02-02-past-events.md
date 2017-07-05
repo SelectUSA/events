@@ -19,36 +19,6 @@ Please visit our <a href="https://www.selectusa.gov/selectusa-summit">Investment
 
 * * *
 
-## Infrastructure 101 Webinar Series
-
-<span class="imgright">[![Infrastructure 101 Webinar](images/selectusa_infrastructure_101_webinar_2014-11-24_page_01_0-300x225.jpg "Infrastructure 101 Webinar")]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series)</span>
-
-This three-part webinar series was designed to equip U.S. economic development organizations (EDOs) with the practical knowledge they needed prior to the&nbsp;[SelectUSA Investment Summit](http://www.selectusasummit.com/)&nbsp;on March 23-24, 2015, where infrastructure investment was one of the highlighted topics.
-
-*   [Infrastructure 101 Webinar with the Department of Treasury]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf101)&nbsp;(November 24, 2014)
-*   [Infrastructure 102 Webinar with the Department of Transportation]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf102)&nbsp;(December 15, 2014)
-*   [Infrastructure 103 Webinar with the Department of Agriculture]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf103)&nbsp;(January 28, 2015)
-
-You can access presentations and resources from these webinars on our [Infrastructure 101 Webinar Series]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series) page.
-
-***
-
-## 2014 SelectUSA Summer Forum
-
-<span class="imgright">[![SelectUSA Summer Forum Logo](images/summer_forum_logo-422x155.png "SelectUSA Summer Forum Logo")]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html)</span>
-
-### *Reinvesting in America, Creating Jobs at Home*
-
-**June 17, 2014**
-
-Co-hosted by **Congressman Frank Wolf**, the [SelectUSA Summer Forum]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html) covered a wide range of perspectives on what's driving reshoring, the challenges that lie ahead, and best practices. Like foreign direct investment, when U.S. companies recognize the value in expanding or repatriating their U.S. operations, local communities benefit and the economy grows stronger.
-
-Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and **Whirlpool CEO Jeff Fettig.** We also heard from leading economists, Walmart, economic development organizations, and companies that shared their experience in making the move back to the United States.
-
-If you missed it, you can still check out the presentations,&nbsp;[available online]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html).
-
-* * *
-
 ## Road Shows
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
@@ -99,3 +69,34 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 *   [**FDI Symposium**]({{base.url}}/events/fdi-symposium-cincinnati.html) - March 31, 2017 in Cincinnati, OH
 *   [**AIM 2017**]({{base.url}}/events/selectusa-aim-2017.html) - March 31-April 4, 2017 in Dubai, UAE
 *   [**Doing Business in the USA**]({{base.url}}/events/biz-seminar-prague.html) - March 28, 2017 in Prague, Czech Republic
+
+
+## Infrastructure 101 Webinar Series
+
+<span class="imgright">[![Infrastructure 101 Webinar](images/selectusa_infrastructure_101_webinar_2014-11-24_page_01_0-300x225.jpg "Infrastructure 101 Webinar")]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series)</span>
+
+This three-part webinar series was designed to equip U.S. economic development organizations (EDOs) with the practical knowledge they needed prior to the&nbsp;[SelectUSA Investment Summit](http://www.selectusasummit.com/)&nbsp;on March 23-24, 2015, where infrastructure investment was one of the highlighted topics.
+
+*   [Infrastructure 101 Webinar with the Department of Treasury]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf101)&nbsp;(November 24, 2014)
+*   [Infrastructure 102 Webinar with the Department of Transportation]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf102)&nbsp;(December 15, 2014)
+*   [Infrastructure 103 Webinar with the Department of Agriculture]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf103)&nbsp;(January 28, 2015)
+
+You can access presentations and resources from these webinars on our [Infrastructure 101 Webinar Series]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series) page.
+
+***
+
+## 2014 SelectUSA Summer Forum
+
+<span class="imgright">[![SelectUSA Summer Forum Logo](images/summer_forum_logo-422x155.png "SelectUSA Summer Forum Logo")]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html)</span>
+
+### *Reinvesting in America, Creating Jobs at Home*
+
+**June 17, 2014**
+
+Co-hosted by **Congressman Frank Wolf**, the [SelectUSA Summer Forum]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html) covered a wide range of perspectives on what's driving reshoring, the challenges that lie ahead, and best practices. Like foreign direct investment, when U.S. companies recognize the value in expanding or repatriating their U.S. operations, local communities benefit and the economy grows stronger.
+
+Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and **Whirlpool CEO Jeff Fettig.** We also heard from leading economists, Walmart, economic development organizations, and companies that shared their experience in making the move back to the United States.
+
+If you missed it, you can still check out the presentations,&nbsp;[available online]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html).
+
+* * *
