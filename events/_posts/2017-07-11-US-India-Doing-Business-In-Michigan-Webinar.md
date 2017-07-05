@@ -18,7 +18,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-On **Tuesday, July 11** at **7:30 a.m. – 8:30 a.m. EDT (5:00 p.m. – 6:00 p.m. IST)**, the U.S. Commercial Service and SelectUSA will host a free webinar on doing business in the U.S. State of Michigan. The webinar part of a broader private sector outreach initiative under the U.S. - India Strategic and Commercial Dialogue with the objective of facilitating business opportunities for U.S. companies in Indian states and attracting Indian investment to the United States.
+On **Tuesday, July 11** at **7:30 a.m. – 8:30 a.m. EDT (5:00 p.m. – 6:00 p.m. IST)**, the U.S. Commercial Service and SelectUSA will host a free webinar on doing business in the U.S. State of Michigan. The webinar is part of a broader private sector outreach initiative under the U.S. - India Strategic and Commercial Dialogue with the objective of facilitating business opportunities for U.S. companies in Indian states and attracting Indian investment to the United States.
 
 **To register for the webinar, please click [here](https://emenuapps.ita.doc.gov/ePublic/event/editWebReg.do?SmartCode=7QCU).**  
 
