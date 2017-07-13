@@ -24,7 +24,7 @@ Save the date and stay tuned for updates on the **2018 SelectUSA Investment Summ
 
 **To view the latest updates, please visit the [Summit page on our website.](https://www.selectusa.gov/selectusa-summit)**
 
-**_[Sign up for email updates](https://public.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_1411)_**
+**_[Sign up for email updates](https://public.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_1666)_**
 
 ---
 
