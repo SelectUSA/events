@@ -4,8 +4,8 @@ layout: sidebar
 title: Future of Energy Seminar
 date-display-start: September 5, 2017
 date-display-end: September 5, 2017
-calendar-start: 2018-09-05
-calendar-end: 2018-09-05
+calendar-start: 2017-09-05
+calendar-end: 2017-09-05
 location-value: London, UK
 location-type: International
 section: events
