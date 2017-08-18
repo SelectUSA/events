@@ -6,7 +6,7 @@ date-display-start: September 27, 2017
 date-display-end: September 27, 2017
 calendar-start: 2017-09-27
 calendar-end: 2017-09-27
-location-value: London, UK
+location-value: Edinburgh, UK
 location-type: International
 section: events
 published: true
