@@ -30,4 +30,4 @@ Topics include:
 
 The event will include insight from: Susan A. Wilson, Principal Officer at U.S. Consulate General Edinburgh; John Simmons, Minister Counsellor for Commercial Affairs at U.S. Embassy London; Liz McAreavey, CEO at Edinburgh Chamber of Commerce; and Duncan McNeill-McCallum, CEO at Vioearth Holdings Ltd.
 
-For more information, including registration, please contact SelectUSA's [Gus Franklyn-Bute](mailto:gus.franklyn-bute@trade.gov) or the Edinburgh Chamber of Commerce's Sophie-Lou Arceselenir](mailto:sophie-lou.arceselenir@edinburghchamber.co.uk).
+For more information, including registration, please contact SelectUSA's [Gus Franklyn-Bute](mailto:gus.franklyn-bute@trade.gov) or the Edinburgh Chamber of Commerce's [Sophie-Lou Arceselenir](mailto:sophie-lou.arceselenir@edinburghchamber.co.uk).
