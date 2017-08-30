@@ -4,8 +4,8 @@ layout: sidebar
 title: FDI in High-Tech Industries
 date-display-start: September 21, 2017
 date-display-end: September 21, 2017
-calendar-start: 2018-09-21
-calendar-end: 2018-09-21
+calendar-start: 2017-09-21
+calendar-end: 2017-09-21
 location-value: Conference Call
 location-type: Online
 section: events
