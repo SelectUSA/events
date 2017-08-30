@@ -24,6 +24,6 @@ Are you interested in learning about high-tech industries in your state and how 
 
 This conference call will discuss how we identify and define high-tech industries, provide a snapshot of the geography of high-tech industries and highly concentrated high-tech clusters in the United States, and explain how foreign direct investment supports the growth of U.S. high-tech industries through employment, R&D expenditures, contributions to U.S. exports, and value-added activities.
 
-To register for this call, please contact (Maureen Book)[mailto:maureen.book@trade.gov?Subject=FDI%20in%20High_Tech%20Industries%20Conference%20Call].
+To register for this call, please contact [Maureen Book](mailto:maureen.book@trade.gov?Subject=FDI%20in%20High_Tech%20Industries%20Conference%20Call).
 
 ---
