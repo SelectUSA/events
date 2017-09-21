@@ -20,7 +20,7 @@ published: true
 
 ### Conference Call: The Role of FDI in High-Tech Industries
 
-Are you interested in learning about high-tech industries in your state and how international firms play a role in the growth of those industries? We encourage and invite you to join SelectUSA for a conference call on September 21, 2017, at 12:00 p.m. ET., where Research Analyst Maureen Book will discuss SelectUSA's upcoming report: "High-Tech Industries: The Role of FDI in Driving Innovation and Growth (_link coming soon_).
+Are you interested in learning about high-tech industries in your state and how international firms play a role in the growth of those industries? We encourage and invite you to join SelectUSA for a conference call on September 21, 2017, at 12:00 p.m. ET., where Research Analyst Maureen Book will discuss SelectUSA's upcoming report: [High-Tech Industries: The Role of FDI in Driving Innovation and Growth](https://go.usa.gov/xRu5m).
 
 This conference call will discuss how we identify and define high-tech industries, provide a snapshot of the geography of high-tech industries and highly concentrated high-tech clusters in the United States, and explain how foreign direct investment supports the growth of U.S. high-tech industries through employment, R&D expenditures, contributions to U.S. exports, and value-added activities.
 
