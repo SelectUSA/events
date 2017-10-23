@@ -20,11 +20,13 @@ published: true
 
 ### Save the Date: 2018 SelectUSA Brazil Road Show
 
-The **Brazil Road Show** returns **March 5-9, 2018**. The cities included (_subject to change_) are: **Recife**, **São Paulo**, **Rio de Janeiro** and **Porto Alegre**.
+The **Brazil Road Show** returns **March 5-9, 2018**. The cities included are **Recife**, **São Paulo**, **Rio de Janeiro**, and **Porto Alegre**.
 
-The Road Show will bring U.S. economic development organizations (EDOs) and service providers together with Brazilian business investors through seminars, networking, and pre-arranged, one-on-one meetings. The SelectUSA team is finalizing further details, so stay tuned!
+The Road Show will bring U.S. economic development organizations (EDOs) and service providers together with Brazilian business investors through half-day seminars, networking activities, and pre-arranged, one-on-one matchmaking sessions.
 
-If you have specific questions about the Show, please contact [Andre Leal](mailto:andre.leal@trade.gov) in São Paulo.
+On **October 30**, SelectUSA will host a **breifing webinar** for U.S. EDOs and service providers interested in attending the Road Show.
+
+To register for the webinar and/or the Road Show, please contact [Andre Leal](mailto:andre.leal@trade.gov).
 
 ---
 
