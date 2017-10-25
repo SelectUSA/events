@@ -1,5 +1,5 @@
 ---
-permalink: "events/guangzhou-forum-2017.html"
+permalink: "events/green-manufacturing-seminar-2017.html"
 layout: sidebar
 title: Green Manufacturing Seminar 2017
 date-display-start: November 28, 2017
@@ -20,7 +20,7 @@ published: true
 
 ### SelectUSA and Green Manufacturing Joint Seminar
 
-The U.S. Commercial Service (CS) Guangzhou is partnering with the Dongguan Industry and Information Technology Bureau to organize a SelectUSA and Green Manufacturing Joint Seminar at the Guangdong Robot & Intelligent Equipment Expo 2017, the largest machinery equipment and manufacturing technology show in South China. This event will focus on promoting foreign direct investment (FDI) in advanced manufacturing and showcase U.S. smart manufacturing technologies. U.S. economic development organizations will have the opportunity to connect with business investors in Chinese advanced manufacturing industries. 
+**On November 28, 2017**, the U.S. Commercial Service (CS) Guangzhou is partnering with the Dongguan Industry and Information Technology Bureau to organize the **SelectUSA and Green Manufacturing Joint Seminar** at the Guangdong Robot & Intelligent Equipment Expo 2017, the largest machinery equipment and manufacturing technology show in South China. This event will focus on promoting foreign direct investment (FDI) in advanced manufacturing and showcase U.S. smart manufacturing technologies. U.S. economic development organizations will have the opportunity to connect with business investors in Chinese advanced manufacturing industries. 
 
 For more information, including registration, please contact [Bruce Ellsworth](mailto:bruce.ellsworth@trade.gov).
 
