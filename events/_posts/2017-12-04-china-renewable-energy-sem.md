@@ -32,7 +32,7 @@ Prior to the event, on **Monday, Dec. 4**, CS Beijing and CS Shanghai will lead 
 
 For more information, please contact [Janet Robertson](mailto:janet.robertson@trade.gov) in Beijing or [Frank Joseph](mailto:frank.joseph@trade.gov) in Shanghai.
 
-#### Registration for this event is now closed
+#### Registration Deadline: November 16
 
 ---
 
