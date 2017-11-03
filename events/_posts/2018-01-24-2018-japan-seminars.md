@@ -20,7 +20,7 @@ published: true
 
 ### 2018 SelectUSA-Japan “Innovation in the USA” Seminars
 
-The U.S. Commercial Service (CS) Western Japan and SelectUSA, in collaboration with local business partners, will organize seminars in **Osaka** and **Nagoya** to promote foreign direct investment (FDI) from Japan to the United States.  The “Innovation in the USA” seminars will take place on **January 24, 2018** in Osaka and **January 25, 2018** in Nagoya. The event will bring U.S. economic development organizations (EDOs) together with Japanese business investors through seminars, networking, and one-on-one meetings. 
+The U.S. Commercial Service (CS) Western Japan and SelectUSA, in collaboration with local business partners, will organize seminars in **Osaka** and **Nagoya** to promote foreign direct investment (FDI) from Japan to the United States.  The “Innovation in the USA” seminars will take place on **January 24, 2018** in Osaka and **January 25, 2018** in Nagoya. The event, _solely intended for U.S. economic development organizations (EDOs)_, will bring them together with Japanese business investors through seminars, networking, and one-on-one meetings. 
 
 The SelectUSA team is finalizing further details, so mark your calendars and stay tuned!
 
