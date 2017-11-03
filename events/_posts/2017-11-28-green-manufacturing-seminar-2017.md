@@ -24,6 +24,8 @@ published: true
 
 For more information, including registration, please contact [Bruce Ellsworth](mailto:bruce.ellsworth@trade.gov).
 
+#### Registration for this event is now closed
+
 ---
 
 Did you know that China is the third fastest-growing sources of FDI in the United States? In 2016, almost 44,000 U.S. jobs were directly supported by the U.S. affiliates of Chinese-owned firms. For more information, check out SelectUSA's [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China).
