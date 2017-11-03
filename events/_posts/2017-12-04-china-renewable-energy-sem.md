@@ -28,7 +28,7 @@ CS Shanghai and CS Beijing will work together with the Alliance to co-host the S
 * Setting up manufacturing operations in the United States
 * The burgeoning energy storage industry
 
-Prior to the event, on **Monday, Dec. 4**, CS Beijing and CS Shanghai will lead a site visit to GCL, China’s largest private power development operator.  
+Prior to the event, on **Monday, December 4**, CS Beijing and CS Shanghai will lead a site visit to GCL, China’s largest private power development operator.  
 
 For more information, please contact [Janet Robertson](mailto:janet.robertson@trade.gov) in Beijing or [Frank Joseph](mailto:frank.joseph@trade.gov) in Shanghai.
 
