@@ -1,7 +1,7 @@
 ---
-permalink: "events/barcelona-investment-round-table.html"
+permalink: "events/barcelona-investment-roundtable.html"
 layout: sidebar
-title: Barcelona Round Table
+title: Barcelona Roundtable
 date-display-start: November 15, 2017
 date-display-end: November 15, 2017
 calendar-start: 2017-11-15
@@ -18,8 +18,8 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-### Invest in the United States Round Table
+### Invest in the United States Roundtable
 
-The U.S. Commercial Service and SelectUSA, in collaboration with the Metro Atlanta Chamber, the City of New York, the City of Schenectady, and Smart City San Diego, will hold an investment round table to provide Spanish business investors with information on how they can invest in the United States.
+The U.S. Commercial Service and SelectUSA, in collaboration with the Metro Atlanta Chamber, the City of New York, the City of Schenectady, and Smart City San Diego, will hold an investment roundtable to provide Spanish business investors with information on how they can invest in the United States.
 
 For more information on the event, please contact [Helen Crowley](mailto:helen.crowley@trade.gov).
