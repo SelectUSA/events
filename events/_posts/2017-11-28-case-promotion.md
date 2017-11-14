@@ -38,8 +38,8 @@ Featured speakers include:
 * Laurent Sansoucy, CASE representative
 * Thomas Thorelli, Attorney at Law, Thorelli & Associates
 * Antoine Guillaud, CPA, Partner INTLM
-Olivier Pipez, VP North America and Asia, SAFRAN
-Lisa Eggers, U.S. Embassy in France, Visa Section
+* Olivier Pipez, VP North America and Asia, SAFRAN
+* Lisa Eggers, U.S. Embassy in France, Visa Section
 
 To register, **[click here](http://www.invest-in-usa.org/pdfs/Paris-v1.pdf)**.
 
