@@ -31,7 +31,7 @@ SelectUSA and the U.S. Commercial Service is partnering with the Council of Amer
 * Kentucky
 * Ohio
 * Missouri
-*South Carolina
+* South Carolina
 
 Featured speakers include:
 
