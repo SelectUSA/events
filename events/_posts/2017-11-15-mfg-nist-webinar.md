@@ -24,7 +24,7 @@ The next entry in SelectUSA's USG Webinars series (which focuses on specific mem
 
 The call - geared toward international companies and business investors, U.S. economic development organizations, and other federal programs - will provide an overview of these programs and how they work with both international business investors and U.S. EDOs. The webinar is free and presentation speakers will be available to answer questions at the conclusion.
 
-Further registration information is coming soon.
+To registef for this webinar, please **[click here](https://go.usa.gov/xnWtv)**.
 
 For specific questions, please contact [Juli Kreko](mailto:juli.kreko@trade.gov).
 
