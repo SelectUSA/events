@@ -20,7 +20,7 @@ published: true
 
 ### 2018 Italy Investment Seminars
 
-SelectUSA's annual series, **Italy Investment Seminars**, returns **February 27 - March 1, 2018** in **Turin**, **Verona**, and **Florence**. The event will bring U.S. economic development organizations (EDOs) together with Italian business investors through seminars, networking, and pre-arranged, one-on-one meetings. The SelectUSA team is finalizing further details, so stay tuned!
+SelectUSA's annual series, **Italy Investment Seminars**, returns **February 27 - March 1, 2018** in **Turin**, **Verona**, and **Florence**. The event, targeted to recruit Italian participants to the 2018 SelectUSA Investment Summit, will bring U.S. economic development organizations (EDOs) together with Italian business investors through seminars, networking, and pre-arranged, one-on-one meetings. The SelectUSA team is finalizing further details, so stay tuned!
 
 For specific questions, please contact [Andrea Rosa](mailto:andrea.rosa@trade.gov).
 
