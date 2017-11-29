@@ -20,7 +20,7 @@ published: true
 
 ### 2018 Nordic Road Show
 
-The **SelectUSA Nordic Road Show** (April 16-20, 2018), will make stops in **Helsinki (Finland)**, **Gothenburg (Sweden)**, **Oslo (Norway)**, and **Copenhagen (Denmark)**. The Show will bring U.S. EDOs together with business investors through market seminars, networking activities, and individual consulting sessions.
+The **SelectUSA Nordic Road Show** (April 16-20, 2018) will make stops in **Helsinki (Finland)**, **Gothenburg (Sweden)**, **Oslo (Norway)**, and **Copenhagen (Denmark)** and bring U.S. EDOs together with business investors through market seminars, networking activities, and individual consulting sessions.
 
 On **December 13, 2017** and **January 8, 2018**, SelectUSA will hold a **briefing webinar** for interested U.S. EDOs and service providers. 
 
