@@ -22,7 +22,7 @@ published: true
 
 On **January 8, 2018**, SelectUSA will hold the second of two webinars for U.S. economic developers and service providers interested in attending the upcoming **2018 Nordic Road Show (April 16-20)**.
 
-The Road Show will make stops in **Helsinki (Finland)**, **Gothenburg (Sweden)**, **Oslo (Norway)**, and **Copenhagen (Denmark)** and will bring U.S. EDOs together with business investors through market seminars, networking activities, and individual consulting sessions.
+The Road Show will make stops in **Helsinki (Finland)**, **Gothenburg (Sweden)**, **Oslo (Norway)**, and **Copenhagen (Denmark)** and bring U.S. EDOs together with business investors through market seminars, networking activities, and individual consulting sessions.
 
 To register for the webinar and/or the Road Show, or for more information, **please contact [Tuula Ahlstrom](mailto:tuula.ahlstrom@trade.gov)**.
 
