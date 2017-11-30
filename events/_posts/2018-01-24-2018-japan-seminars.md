@@ -22,7 +22,7 @@ published: true
 
 The U.S. Commercial Service (CS) Western Japan and SelectUSA, in collaboration with local business partners, will hold the **2018 SelectUSA Japan Innovation Seminars** in **Osaka** and **Nagoya** on **January 24, 2018** (in Osaka) and **January 25, 2018** (in Nagoya). These seminars will allow U.S. economic developers to showcase their locations directly to companies in both cities, companies focused on, but not limited to, artificial intelligence (AI) and the Internet of Things (IoT).
 
-#### REGISTRATION LINK COMING NOVEMBER 30, 2017.
+_**[Click here to register](https://connect.eventtia.com/en/dmz/japaninnovationseminars/website)**_.
 
 For specific questions, please contact [Yuko Nakaoka](yuko.nakaoka@trade.gov) and [Keida Ackerman](keida.ackerman@trade.gov).
 
