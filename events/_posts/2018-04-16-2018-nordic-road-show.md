@@ -6,7 +6,7 @@ date-display-start: April 16
 date-display-end: 20, 2018
 calendar-start: 2018-04-16
 calendar-end: 2018-04-20
-location-value: Finland, Sweden, Norway, and Copenhagen
+location-value: Finland, Sweden, Norway, and Denmark
 location-type: International
 section: events
 published: true
