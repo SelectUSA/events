@@ -28,6 +28,8 @@ For specific questions, please contact [Yuko Nakaoka](yuko.nakaoka@trade.gov) an
 
 _Please note that this event is solely intended for U.S. economic development organizations._
 
+**_The Seminars have reached capacity and SelectUSA is no longer accepting registrations_**
+
 ---
 
 Did you know that Japanese companies directly support over 856,000 U.S. jobs, over 45 percent of which are in manufacturing sectors alone? Total FDI stock from Japan to the United States was over $424 billion in 2016 (latest available data). Learn more about Japanese FDI from SelectUSA’s [Japan fact sheet](https://www.selectusa.gov/country-fact-sheet/Japan).
