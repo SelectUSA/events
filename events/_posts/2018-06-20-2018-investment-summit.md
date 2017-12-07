@@ -33,7 +33,3 @@ Save the date and stay tuned for updates on the **2018 SelectUSA Investment Summ
 Hosted by Secretary of Commerce Wilbur Ross, the 2017 SelectUSA Investment Summit saw record attendance: more than 2,800 participants from over 60 international markets. This included over 1,200 global business investors and economic developers from 51 U.S. states and territories, as well as four Cabinet secretaries, two governors, and high-level CEOs.  
 
 **To learn more about the last Summit, please visit our [2017 Investment Summit page](https://www.selectusa.gov/2017-investment-summit).**
-
----
-
-<iframe width="350" height="180" src="https://w2.countingdownto.com/2030729" frameborder="0"></iframe>
