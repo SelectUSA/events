@@ -20,7 +20,7 @@ published: true
 
 ### 2018 Nordic Road Show Webinar 2
 
-On **January 8, 2018**, SelectUSA will hold the second of two webinars for U.S. economic developers and service providers interested in attending the upcoming **2018 Nordic Road Show (April 16-20)**.
+On **January 8, 2018**, at **9:00 a.m. ET** / **6:00 a.m. PT** / **2:00 p.m. GMT**, SelectUSA will hold the second of two webinars for U.S. economic developers and service providers interested in attending the upcoming **2018 Nordic Road Show (April 16-20)**.
 
 The Road Show will make stops in **Helsinki (Finland)**, **Gothenburg (Sweden)**, **Oslo (Norway)**, and **Copenhagen (Denmark)** and bring U.S. EDOs together with business investors through market seminars, networking activities, and individual consulting sessions.
 
