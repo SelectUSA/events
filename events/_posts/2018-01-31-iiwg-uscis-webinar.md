@@ -1,7 +1,7 @@
 ---
 permalink: "events/iiwg-uscis-webinar.html"
 layout: sidebar
-title: USG Webinar: USCIS
+title: USG Webinar - USCIS
 date-display-start: January 31, 2018
 date-display-end: January 31, 2018
 calendar-start: 2018-01-31
