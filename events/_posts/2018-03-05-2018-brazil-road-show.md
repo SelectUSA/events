@@ -24,9 +24,7 @@ The **Brazil Road Show** returns **March 5-9, 2018**. The cities included are **
 
 The Road Show will bring U.S. economic development organizations (EDOs) and service providers together with Brazilian business investors through half-day seminars, networking activities, and pre-arranged, one-on-one matchmaking sessions.
 
-On **November 16, 2017**, SelectUSA will host a **briefing webinar** for U.S. EDOs and service providers interested in attending the Road Show.
-
-To register for the webinar and/or the Road Show, please contact [Andre Leal](mailto:andre.leal@trade.gov).
+To register for the Road Show, [**click here**](http://bit.ly/2EGChyM). For more information, please contact [Andre Leal](mailto:andre.leal@trade.gov).
 
 ---
 
