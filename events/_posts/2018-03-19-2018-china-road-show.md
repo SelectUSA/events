@@ -22,7 +22,7 @@ published: true
 
 The **China Road Show** returns **March 19-29, 2018** and will make stops in the following cities: Harbin (3/19), Hohhot (3/21), Wuhan (3/23), Ningbo (3/26), Guiyang (3-28), and Guangzhou (3/29). 
 
-The Road Show will lead U.S. economic development organizations (EDOs) and service providers through half-day seminars, networking activities and matchmaking sessions with Chinese business investors. The estimated participation fee for the six-city Road Show is $7,200 per EDO.
+The Road Show will lead U.S. economic development organizations (EDOs) and service providers through half-day seminars, networking activities and matchmaking sessions with Chinese business investors. 
 
 On **Thursday, January 18, 2018**, SelectUSA will host a **briefing webinar** for U.S. EDOs and service providers interested in attending (_time of day TBD_).
 
