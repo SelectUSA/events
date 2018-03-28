@@ -20,7 +20,7 @@ published: true
 
 ### Commercial Service/SelectUSA Reception at Hannover Messe 2018
 
-On April 24, from 4:00 p.m. - 6:00 p.m. ___, the U.S. Commercial Service and SelectUSA will hold a networking reception for U.S. economic developers and global investors in the Digital Factory U.S. Pavilion (Hall 6) at Hannover Messe 2018 in Hannover, Germany.
+On April 24, from 4:00 p.m. - 6:00 p.m. CEST, the U.S. Commercial Service and SelectUSA will hold a networking reception for U.S. economic developers and global investors in the Digital Factory U.S. Pavilion (Hall 6) at Hannover Messe 2018 in Hannover, Germany.
 
 ### About Hannover Messe
 
