@@ -4,8 +4,8 @@ layout: sidebar
 title: U.S.-India Webinar on Doing Business in the State of Texas
 date-display-start: April 25, 2018
 date-display-end: April 25, 2018
-calendar-start: 2017-04-25
-calendar-end: 2017-04-25
+calendar-start: 2018-04-25
+calendar-end: 2018-04-25
 location-value: Webinar
 location-type: Online
 section: events
