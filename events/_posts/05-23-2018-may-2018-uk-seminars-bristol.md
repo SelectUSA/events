@@ -1,0 +1,31 @@
+---
+permalink: "events/may-2018-uk-seminar-bristol.html"
+layout: sidebar
+title: Bristol, UK Seminar
+date-display-start: May 23, 2018
+date-display-end: May 23, 2018
+calendar-start: 2018-05-23
+calendar-end: 2018-05-23
+location-value: Bristol, UK
+location-type: International
+section: events
+published: true
+---
+
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") May 23, 2018
+
+![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
+
+### U.S. Trade & Investment Growth Seminar
+
+On **May 23, 2018**, in **Bristol, UK**, SelectUSA and the UK Department for International Trade will hold a seminar for firms from South West England that are looking to enter or expand into the United States. Speakers include representatives from the U.S. Commercial Serivce, the Council of American States in Europe (CASE), the UK Department of International Trade, and U.S. Tax & Financial Services Ltd., as well as U.S. attorney and UK solicitor John Strassberg.
+
+Seminar topics include:
+* The future of the U.S.-UK economic partnership
+* The logistics of moving a business to the United States
+* Fostering relationships with U.S. state and local-level EDOs
+* Legal, tax, immigration, and commercial requirements for operating in the United States
+
+For more information, including registration, please visit the **[event website](https://www.eventbrite.co.uk/e/us-trade-investment-growth-seminar-tickets-45019613877)**.  
+
+---
