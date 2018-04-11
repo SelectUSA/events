@@ -30,6 +30,7 @@ On **Wednesday, April 25** at **7:00 a.m. – 8:00 a.m. EDT (4:30 p.m. – 5:30 
 * Diane Farrell, Deputy Assistant Secretary for Global Markets Asia, International Trade Administration, U.S. Department of Commerce
 * Shruti Singh, Deputy Secretary, Department of Industrial Policy and Promotion, Ministry of Commerce and Industry, Government of India
 * Michael Treyger, Manager, Department of Business Assistance, Office of the Governor, State of Texas
+* Mani Iyer, President & CEO, Mahindra North America
 * Joseph Bishop-Henchman, Executive Vice President, Tax Foundation
 
 _Registration link coming soon._
