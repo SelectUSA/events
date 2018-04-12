@@ -32,7 +32,7 @@ Learn why Texas is a large and attractive market for international businesses ac
 * Diane Farrell, Deputy Assistant Secretary for Global Markets Asia, International Trade Administration, U.S. Department of Commerce
 * Shruti Singh, Deputy Secretary, Department of Industrial Policy and Promotion, Ministry of Commerce and Industry, Government of India
 * Michael Treyger, Manager, Department of Business Assistance, Office of the Governor, State of Texas
-* Mani Iyer, President & CEO, Mahindra North America
+* Mani Iyer, President & CEO, Mahindra Americas
 * Joseph Bishop-Henchman, Executive Vice President, Tax Foundation
 
 To register for the webinar, **[click here](http://go.usa.gov/xQTHw)**.
