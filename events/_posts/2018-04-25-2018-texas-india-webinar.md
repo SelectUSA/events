@@ -20,7 +20,7 @@ published: true
 
 On **Wednesday, April 25** at **7:00 a.m. – 8:00 a.m. EDT (4:30 p.m. – 5:30 p.m. IST)**, the U.S. Commercial Service and SelectUSA will host a free webinar on doing business in the U.S. State of Texas. 
 
-Learn why Texas is a large and attractive market for international businesses across a broad range of industries. Hear from Mahindra North America about their success in Texas. Gain independent expert insight about how Texas tax policy ranks within the United States.
+Learn why Texas is a large and attractive market for international businesses across a broad range of industries. Hear from Mahindra Americas about their success in Texas. Gain independent expert insight about how Texas tax policy ranks within the United States.
 
 **Featured Sectors**
 * Advanced manufacturing
