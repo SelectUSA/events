@@ -24,4 +24,4 @@ Don’t miss the opportunity to introduce your community to select Vietnamese fi
 
 ---
 
-For more information about this event, including registration, please contact [Josh Leibowitz](Joshua.Leibowitz@trade.gov).
+For more information about this event, including registration, please contact [Josh Leibowitz](mailto:Joshua.Leibowitz@trade.gov).
