@@ -18,7 +18,7 @@ published: true
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington, D.C.
 
-### Save the date: 2018 SelectUSA Investment Summit
+### 2018 SelectUSA Investment Summit
 
 Save the date and stay tuned for updates on the **2018 SelectUSA Investment Summit**, that will take place on **June 20-22, 2018**, at the **Gaylord National Resort and Convention Center** (Washington, D.C. area). 
 
