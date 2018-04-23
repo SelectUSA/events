@@ -1,7 +1,7 @@
 ---
 permalink: "events/may-2018-uk-seminar-birmingham.html"
 layout: sidebar
-title: Birmingham, UK Seminar
+title: UK Seminar Series Birmingham
 date-display-start: May 24, 2018
 date-display-end: May 24, 2018
 calendar-start: 2018-05-24
@@ -16,7 +16,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-### U.S. Trade & Investment Growth Seminar
+### SelectUSA UK Investment & Trade Seminar Series - Birmingham
 
 On **May 24, 2018**, in **Birmingham, UK**, SelectUSA, the Council of American States in Europe (CASE), and the British American Business Council (BABC) will hold a seminar for firms from Birmingham that are looking to enter or expand into the United States: [USA Market Entry](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/usa-market-entry-seminar/). The two-panel event will feature experts and success stories from firms that successfully established themselves in the United States. Panels include:
 
