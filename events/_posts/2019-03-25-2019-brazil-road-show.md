@@ -9,7 +9,7 @@ calendar-end: 2019-03-29
 location-value: Florianópolis, São Paulo and Belo Horizonte
 location-type: International
 section: events
-published: true
+published: false
 ---
 
 # {{ page.title}}
