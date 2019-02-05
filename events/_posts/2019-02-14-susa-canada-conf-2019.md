@@ -19,9 +19,9 @@ published: true
 
 ### SelectUSA Canada Conference at the Canadian International Auto Show
 
-U.S. economic developers are invited to join us for the annual **SelectUSA Canada Conference** at the [Canadian International Auto Show (CIAS)](http://autoshow.ca/) in **Toronto** on **February 14, 2019**. Designed by the U.S. Commerce Service (USCS) Toronto, the event will feature companies from the Canadian automotive and advanced manufacturing technology sectors. U.S. economic development organizations will have the opportunity to meet one-on-one with Canadian investors, hear about manufacturing from U.S. government officials, and take advantage of additional networking opportunities.  
+U.S. economic developers are invited to join us for the annual **SelectUSA Canada Conference** at the [Canadian International Auto Show (CIAS)](http://autoshow.ca/) in **Toronto** on **February 14, 2019**. Designed by the U.S. Commerce Service (USCS) Toronto, the event will feature companies from the Canadian automotive and advanced manufacturing technology sectors. U.S. economic development organizations will have the opportunity to meet one-on-one with Canadian investors.  
 
-For more information, including registration, please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov). 
+For more information, including registration, **[please visit the event webpage](https://connect.eventtia.com/en/dmz/selectusacanada2019/website)**. 
 
 ---
 
