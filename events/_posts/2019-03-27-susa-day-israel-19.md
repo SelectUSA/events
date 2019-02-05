@@ -1,7 +1,7 @@
 ---
 permalink: "events/susa-day-israel-19.html"
 layout: sidebar
-title: SelectUSA Day
+title: SelectUSA Day (Israel)
 date-display-start: March 27, 2019
 date-display-end: March 27, 2019
 calendar-start: 2019-03-27
