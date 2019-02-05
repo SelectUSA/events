@@ -18,9 +18,9 @@ published: true
 
 ### SelectUSA Day 2019
 
-SelectUSA, in cooperation with the American State Offices Association (ASOA), will host SelectUSA Day at the U.S. Embassy in Israel Branch Office in Tel Aviv on March 27, 2019. The event will highlight the U.S. investment climate and how SelectUSA can assist Israeli firms in expanding operations in the United States. 
+SelectUSA, in cooperation with the American State Offices Association (ASOA), will host SelectUSA Day at the U.S. Embassy in Israel Branch Office in **Tel Aviv** on **March 27, 2019**. The event will highlight the U.S. investment climate and how SelectUSA can assist Israeli firms in expanding operations in the United States. 
 
-For more information please contact [Sigal Mendelovich](mailto:sigal.mendelovich@trade.gov). 
+For more information, including registration for Israeli firms, **please contact [Sigal Mendelovich](mailto:sigal.mendelovich@trade.gov)**. 
 
 ---
 
