@@ -22,6 +22,8 @@ SelectUSA, in cooperation with the American State Offices Association, will host
 
 For more information, including registration for Israeli firms, **please contact [Sigal Mendelovich](mailto:sigal.mendelovich@trade.gov)**. 
 
+_**UPDATE: The event has reached capacity and applications are no longer being accepted.**_
+
 ---
 
 FDI from Israel stood at more than $39 billion in 2017. Learn more about FDI from Israel and many other international markets on [SelectUSA Stats](https://www.selectusa.gov/data).
