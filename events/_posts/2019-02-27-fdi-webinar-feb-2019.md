@@ -14,9 +14,9 @@ published: true
 
 # {{ page.title}}
 
-February 27, 2019
+#### February 27, 2019
 
-{{ page.location-value }}
+#### {{ page.location-value }}
 
 ### BEA's Got Your Number: Foreign Direct Investment Statistics
 
