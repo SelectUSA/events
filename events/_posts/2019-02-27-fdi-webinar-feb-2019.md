@@ -20,7 +20,7 @@ February 27, 2019
 
 ### BEA's Got Your Number: Foreign Direct Investment Statistics
 
-The **Bureau of Economic Analysis (BEA)** will host a webinar on **February 27**, providing an overview of foreign direct investment (FDI) in the United States. The webinar will include highlights of the latest available statistics on FDI and positions, activities of multinational enterprises, and new FDI transactions. 
+The **Bureau of Economic Analysis (BEA)** will host a webinar on **February 27** at **12 p.m. EST**, providing an overview of foreign direct investment (FDI) in the United States. The webinar will include highlights of the latest available statistics on FDI and positions, activities of multinational enterprises, and new FDI transactions. 
 
 Please contact **[Elizabeth Schaefer](mailto:elizabeth.schaefer@trade.gov?Subject=BEA%20webinar%20registration)** to register for the call. Your name, organization, and email will be required for registration.
 
