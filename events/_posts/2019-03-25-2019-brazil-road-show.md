@@ -14,9 +14,9 @@ published: false
 
 # {{ page.title}}
 
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") March 25-29, 2019
+#### March 25-29, 2019
 
-![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
+#### {{ page.location-value }}
 
 ### Save the Date: 2019 SelectUSA Brazil Road Show
 
