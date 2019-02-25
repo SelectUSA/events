@@ -12,9 +12,9 @@ section: events
 published: true
 ---
 
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") March 19 - 21, 2019
+#### March 19 - 21, 2019
 
-![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
+#### {{ page.location-value }}
 
 ### 2019 Italy Seminars
 
