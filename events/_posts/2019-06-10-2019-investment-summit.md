@@ -14,9 +14,9 @@ published: true
 
 # {{ page.title}}
 
-![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+#### {{ page.date-display-start}}-{{ page.date-display-end}}
 
-![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington, D.C.
+#### Washington, D.C.
 
 ### 2019 SelectUSA Investment Summit
 
