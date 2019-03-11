@@ -1,7 +1,7 @@
 ---
 permalink: "events/fdi-webinar-feb-2019.html"
 layout: sidebar
-title: BEA's Got Your Number
+title: BEAs Got Your Number
 date-display-start: February 27, 2019
 date-display-end: February 27, 2019
 calendar-start: 2019-02-27
