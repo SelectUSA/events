@@ -1,5 +1,5 @@
 ---
-permalink: "events/2019-brazil-workshop-curitiba.html"
+permalink: "events/2019-brazil-workshop-rio.html"
 layout: sidebar
 title: Workshop in Rio de Janeiro, Brazil
 date-display-start: April 29, 2019
