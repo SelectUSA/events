@@ -9,7 +9,7 @@ calendar-end: 2019-04-23
 location-value: Rio de Janeiro, Brazil
 location-type: International
 section: events
-published: true
+published: false
 ---
 
 # {{ page.title}}
