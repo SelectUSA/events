@@ -22,7 +22,7 @@ SelectUSA will host a **seminar in Guangzhou** on **April 19, 2019**. Investment
 
 The **registration deadline is March 29.** [**Click here to register.**](http://bit.ly/susa-guangzhou-0419)
 
-For more information, including registration, **please contact [Kaitlyn Hou](mailto:yao.hou@trade.gov)**. 
+For more information, **please contact [Kaitlyn Hou](mailto:yao.hou@trade.gov)**. 
 
 ---
 
