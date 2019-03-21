@@ -2,10 +2,10 @@
 permalink: "events/2019-brazil-workshop-curitiba.html"
 layout: sidebar
 title: Workshop in Curitiba, Brazil
-date-display-start: April 17, 2019
-date-display-end: April 17, 2019
-calendar-start: 2019-04-17
-calendar-end: 2019-04-17
+date-display-start: April 16, 2019
+date-display-end: April 16, 2019
+calendar-start: 2019-04-16
+calendar-end: 2019-04-16
 location-value: Curitiba, Brazil
 location-type: International
 section: events
@@ -14,13 +14,13 @@ published: true
 
 # {{ page.title}}
 
-#### April 17, 2019
+#### April 16, 2019
 
 #### {{ page.location-value }}
 
 ### SelectUSA Brazil: Expansion Workshop in Curitiba
 
-SelectUSA will hold a **workshop for Brazilian firms** looking to expand in the United States in **Curitiba, Brazil**, on **April 17, 2019**. The program will consist of seminars and technical presentations, providing attending firms with actionable information on how to bring operations to the United States.
+SelectUSA will hold a **workshop for Brazilian firms** looking to expand in the United States in **Curitiba, Brazil**, on **April 16, 2019**. The program will consist of seminars and technical presentations, providing attending firms with actionable information on how to bring operations to the United States.
 
 For more information, including registration, please contact [Andre Leal](mailto:andre.leal@trade.gov?Subject=Curitiba%20workshop).
 
