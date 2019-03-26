@@ -20,6 +20,8 @@ published: true
 
 SelectUSA will host a **seminar in Guangzhou** on **April 19, 2019**. Investment specialists will provide Chinese business investors with an overview of the U.S. business climate and information on how SelectUSA can help in the U.S. expansion process. Investors will also have an opportunity to network with attending U.S. economic development organizations.
 
+If you are interested but cannot attend in person, then the U.S. Commercial Service in Guangzhou can provide a list of three or more local service providers that you could contract with to represent your city, county or state at this type of event. 
+
 The **registration deadline is March 29.** [**Click here to register.**](http://bit.ly/susa-guangzhou-0419)
 
 For more information, **please contact [Kaitlyn Hou](mailto:yao.hou@trade.gov)**. 
