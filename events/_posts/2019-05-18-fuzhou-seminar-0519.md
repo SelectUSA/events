@@ -22,7 +22,7 @@ SelectUSA will host a **seminar in Fuzhou** on **May 18, 2019**. Investment spec
 
 If you are interested but cannot attend in person, then the U.S. Commercial Service in Guangzhou can provide a list of three or more local service providers that you could contract with to represent your city, county or state at this type of event. 
 
-The **registration deadline is March 29.** [**Click here to register.**](http://bit.ly/susa-fuzhou-0518)
+The **registration deadline is April 29.** [**Click here to register.**](http://bit.ly/susa-fuzhou-0518)
 
 For more information, **please contact [Kaitlyn Hou](mailto:yao.hou@trade.gov)**. 
 
