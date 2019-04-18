@@ -22,7 +22,7 @@ published: true
 
 The next entry in SelectUSA's **USG (U.S. Government) Webinar series** (which focuses on specific member agencies and programs in the Interagency Investment Working Group, or "IIWG") is set for **May 15, 2019** at **3:00 p.m. EDT**. The free webinar will highlight the **U.S. Department of Commerce's Bureau of the Census (Census)** and feature online tools, including USA Trade Online (import data), Global Market Finder (export data), and Census Business Builder (business and demographic data). At the end of the presentation, Census specialists will hold a Q&A session and provide guidance on scheduling more interactive demonstrations at the SelectUSA Investment Summit in June.
 
-[_**To register, click here.**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__pEILvtUQlRLODRONzRNT0cyWVZRUzZSNFFPT0FMSy4u)
+[_**To register, click here.**_](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__pEILvtUQlRLODRONzRNT0cyWVZRUzZSNFFPT0FMSy4u)
 
 _For more information, please contact **[Lance Jackson](mailto:lance.jackson@trade.gov?Subject=Census%20Webinar)**._
 
