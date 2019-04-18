@@ -1,7 +1,7 @@
 ---
 permalink: "events/fuzhou-seminar-0519.html"
 layout: sidebar
-title: Guangzhou Seminar
+title: Fuzhou Seminar
 date-display-start: May 18, 2019
 date-display-end: May 18, 2019
 calendar-start: 2019-05-18
