@@ -3,9 +3,9 @@ permalink: "events/selectusa-collision2019.html"
 layout: sidebar
 title: Collision Conference
 date-display-start: May 20
-date-display-end: 22, 2019
+date-display-end: 23, 2019
 calendar-start: 2019-05-20
-calendar-end: 2019-05-22
+calendar-end: 2019-05-23
 location-value: Toronto
 location-type: International
 section: events
@@ -14,13 +14,13 @@ published: true
 
 # {{ page.title}}
 
-#### May 20-22, 2019
+#### May 20-23, 2019
 
 #### {{ page.location-value }}
 
 ### SelectUSA at the 2019 Collision Conference Conference
 
-Are you interested in attracting international business investors at one of the largest tech conferences in North America? SelectUSA will be at the **[Collision Conference](https://collisionconf.com/)** in **Toronto, Canada**, **May 20-22**, and we're looking for U.S. economic development organizations (EDOs) to add to our directory (to be given to and shared with attendees). For **US$75**, SelectUSA will include a brief-but-impactful profile in the EDO directory, including:
+Are you interested in attracting international business investors at one of the largest tech conferences in North America? SelectUSA will be at the **[Collision Conference](https://collisionconf.com/)** in **Toronto, Canada**, **May 20-23**, and we're looking for U.S. economic development organizations (EDOs) to add to our directory (to be given to and shared with attendees). For **US$75**, SelectUSA will include a brief-but-impactful profile in the EDO directory, including:
 
 * 150-word overview of your location and organization
 * Logo
