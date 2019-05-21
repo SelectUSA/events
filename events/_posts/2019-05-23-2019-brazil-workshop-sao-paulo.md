@@ -22,7 +22,9 @@ published: true
 
 SelectUSA will hold a **workshop for Brazilian firms** looking to expand in the United States in **São Paulo, Brazil**, on **May 23, 2019**. The program will consist of seminars and technical presentations, providing attending firms with actionable information on how to bring operations to the United States.
 
-For more information, including registration, please contact [Andre Leal](mailto:andre.leal@trade.gov?Subject=São%20Paulo%20workshop).
+[**To register, click here.**](https://www.sympla.com.br/selectusa-workshop---tecnicas-para-a-internacionalizacao-de-empresas-sao-paulo__526362)
+
+For more information, please contact [Andre Leal](mailto:andre.leal@trade.gov?Subject=São%20Paulo%20workshop).
 
 ---
 
