@@ -24,7 +24,7 @@ The **Brazil Road Show** returns **August 26-30, 2019**. The cities included are
 
 The Road Show will bring U.S. economic development organizations (EDOs) and service providers together with Brazilian business investors through half-day seminars, networking activities, and pre-arranged, one-on-one matchmaking sessions.
 
-For more information, including registration, please contact [Andre Leal](mailto:andre.leal@trade.gov).
+To register, [**click here**](http://bit.ly/selectusa-brasil-2019). For more information, please contact [Andre Leal](mailto:andre.leal@trade.gov).
 
 ---
 
