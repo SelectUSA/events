@@ -18,7 +18,7 @@ published: true
 
 ### 2020 Italy Seminars
 
-SelectUSA will host four Investment Summit promotional events, March 9-12, 2020, in Naples, Bologna, Milan and Padua. The events will highlight the upcoming Investment Summit and how SelectUSA can assist Italian companies looking to expand operations in the United States.
+SelectUSA will host four Investment Summit promotional events, **March 9-12, 2020**, in **Naples, Bologna, Milan** and **Padua**. The events will highlight the upcoming Investment Summit and how SelectUSA can assist Italian companies looking to expand operations in the United States.
 
 For more information, **please contact [Andrea Rosa](mailto:andrea.rosa@trade.gov)**.
 
