@@ -22,7 +22,7 @@ published: true
 
 The next entry in SelectUSA's **USG (U.S. Government) Webinar series** (which focuses on specific member agencies and programs in the Interagency Investment Working Group, or "IIWG") is set for **September 11, 2019** at **12:00 p.m. EDT**. The Bureau of Economic Analysis (BEA) will provide an overview of foreign direct investment (FDI) in the United States in 2018, including highlights from BEA’s recent releases on new FDI and direct investment transactions and positions. These statistics provide information on trends in foreign direct investment by state, country, and industry that can help stakeholders make more informed decisions. 
 
-_Registration information coming soon_
+_[**Click here to register.**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__pEILvtUMTFDUElYOEVOMFBRWkFOMEJOWUowSkkwUy4u)_
 
 _For more information, please contact **[Lance Jackson](mailto:lance.jackson@trade.gov?Subject=BEA%20Webinar)**._
 
