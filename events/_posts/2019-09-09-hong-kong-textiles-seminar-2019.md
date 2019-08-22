@@ -18,7 +18,7 @@ published: true
 
 ### Seminar on the U.S. Textiles & Apparel Industry
 
-SelectUSA will host an FDI-focused seminar for the textile and apparel industry in **Hong Kong, China** on **September 9, 2019** at the **Hong Kong Productivity Council**. In addition to learning more about the U.S. business climate and SelectUSA services for companies in Hong Kong, attendees will have the opportunity to meet with investment specialist from SelectUSA. Participating U.S. eEconomic development organizations will also have the opportunity to promote their locations and meet directly with potential investors during the event. 
+SelectUSA will host an FDI-focused seminar for the textile and apparel industry in **Hong Kong, China** on **September 9, 2019** at the **Hong Kong Productivity Council**. In addition to learning more about the U.S. business climate and SelectUSA services for companies in Hong Kong, attendees will have the opportunity to meet with investment specialist from SelectUSA. Participating U.S. economic development organizations will also have the opportunity to promote their locations and meet directly with potential investors during the event. 
 
 For more information, **please contact [Gary Kwan](mailto:gary.kwan@trade.gov)**.
 
