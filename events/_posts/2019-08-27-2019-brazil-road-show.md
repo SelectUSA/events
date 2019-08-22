@@ -2,11 +2,11 @@
 permalink: "events/2019-brazil-road-show.html"
 layout: sidebar
 title: 2019 Brazil Road Show
-date-display-start: August 26
-date-display-end: 30, 2019
-calendar-start: 2019-08-26
-calendar-end: 2019-08-30
-location-value: Campinas, São Paulo, Belo Horizonte, and Florianópolis
+date-display-start: August 27
+date-display-end: 29, 2019
+calendar-start: 2019-08-27
+calendar-end: 2019-08-29
+location-value: São Paulo, Belo Horizonte, and Florianópolis
 location-type: International
 section: events
 published: true
@@ -20,7 +20,7 @@ published: true
 
 ### Save the Date: 2019 SelectUSA Brazil Road Show
 
-The **Brazil Road Show** returns **August 26-30, 2019**. The cities included are **Campinas, São Paulo, Belo Horizonte, and Florianópolis**.
+The **Brazil Road Show** returns **August 27-29, 2019**. The cities included are **São Paulo, Belo Horizonte, and Florianópolis**.
 
 The Road Show will bring U.S. economic development organizations (EDOs) and service providers together with Brazilian business investors through half-day seminars, networking activities, and pre-arranged, one-on-one matchmaking sessions.
 
