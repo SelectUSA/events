@@ -18,7 +18,9 @@ published: true
 
 ### William Fry & SelectUSA Invest in the United States Seminar
 
-SelectUSA and William Fry will host an **FDI-focused seminar** ("Invest in the United States") at the **U.S. Embassy in Dublin, Ireland** on **September 12, 2019**. In addition to learning more about the U.S. business climate and SelectUSA services for Irish companies, attendees will have the opportunity to meet directly with investment specialists.
+SelectUSA and William Fry will host an **FDI-focused seminar** ("Invest in the United States") at the **U.S. Embassy in Dublin, Ireland** on **September 12, 2019**. In addition to learning more about the U.S. business climate and SelectUSA services for Irish companies, attendees will have the opportunity to meet directly with investment specialists. 
+
+U.S. economic development organizations are also encouraged to join the seminar, where they will have the opportunity to promote their regions, states, or cities to attending companies.
 
 For more information, including registration, **please contact [Conor Kenny](mailto:conor.kenny@trade.gov)**.
 
