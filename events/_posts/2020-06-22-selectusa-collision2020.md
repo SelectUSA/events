@@ -6,7 +6,7 @@ date-display-start: June 22
 date-display-end: 25, 2020
 calendar-start: 2020-06-22
 calendar-end: 2020-06-25
-location-value: Toronto
+location-value: Toronto, Canada
 location-type: International
 section: events
 published: true
