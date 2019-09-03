@@ -20,7 +20,7 @@ published: true
 
 ### U.S.-India State Spotlight Series: Doing Business in New Jersey
 
-On **Wednesday, September 4, 2019**, at **5:30 p.m. IST** / **8 a.m. EDT**, SelectUSA will host the [next edition of the **U.S.-India Commercial Dialogue State Spotlight Series**](http://bit.ly/india-nj-2019). The free webinar will focus on the state of New Jersey and is part of a broader private sector outreach inititative under the U.S.-India Strategic and Commercial Dialogue. Indian business leaders and investors will learn more about the unique investment opportunities available in Kentucky (and how to utilize those opportunities).
+On **Wednesday, September 4, 2019**, at **5:30 p.m. IST** / **8 a.m. EDT**, SelectUSA will host the [next edition of the **U.S.-India Commercial Dialogue State Spotlight Series**](http://bit.ly/india-nj-2019). The free webinar will focus on the state of New Jersey and is part of a broader private sector outreach inititative under the U.S.-India Strategic and Commercial Dialogue. Indian business leaders and investors will learn more about the unique investment opportunities available in New Jersey (and how to utilize those opportunities).
 
 To register, please [**click here**](http://bit.ly/india-nj-2019). 
 
