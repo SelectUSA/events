@@ -9,7 +9,7 @@ calendar-end: 2019-09-04
 location-value: Webinar
 location-type: Online
 section: events
-published: true
+published: false
 ---
 
 # {{ page.title}}
