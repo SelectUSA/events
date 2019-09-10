@@ -2,7 +2,7 @@
 permalink: "events/2020-central-europe-road-show.html"
 layout: sidebar
 title: 2020 Central Europe Road Show
-date-display-start: March 09
+date-display-start: March 9
 date-display-end: 13, 2020
 calendar-start: 2020-03-09
 calendar-end: 2020-03-13
