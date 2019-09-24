@@ -4,8 +4,8 @@ layout: sidebar
 title: SelectUSA at Digital Jersey Hub
 date-display-start: October 10, 2019
 date-display-end: October 10, 2019
-calendar-start: 2020-10-10
-calendar-end: 2020-10-10
+calendar-start: 2019-10-10
+calendar-end: 2019-10-10
 location-value: St. Helier, Jersey
 location-type: International
 section: events
