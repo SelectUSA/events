@@ -28,4 +28,6 @@ The registration deadline for both U.S. economic developers and Chinese companie
 
 #### More About FDI from China
 
-Chinese FDI stock--$60.2 billion--directly supports nearly 80,000 U.S. jobs and contributes $4.7 billion to U.S. goods exports. Learn more through [SelectUSA Stats](https://www.selectusa.gov/selectusa-stats) and the [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China).
+Total FDI from China--$65 billion--directly supports 122,100 U.S. jobs and contributes $4.8 billion to U.S. goods exports. Learn more through [SelectUSA Stats](https://www.selectusa.gov/selectusa-stats) and the [China fact sheet](https://www.selectusa.gov/country-fact-sheet/China).
+
+_Please note that our fact sheets are currently being updated with the latest data from the Bureau of Economic Analysis (2017) and will show figures for 2016._
