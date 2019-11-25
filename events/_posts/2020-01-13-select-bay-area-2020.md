@@ -22,7 +22,7 @@ SelectUSA will co-host a **[seminar in San Francisco](https://go.usa.gov/xp5R9)*
 
 Registration for Select Bay Area, **$650 per participant**, includes all meetings, group transportation between and within San Francisco and San Jose, and some meals. Airfare and lodging are not included.
 
-For more information, including registration, **[click here](https://go.usa.gov/xp5R9)**. If you have further quesitons, please contact [Joanne Vliet](mailto:joanne.vliet@trade.gov) and/or [Doug Wallace](mailto:douglas.wallace@trae.gov).
+For more information, including registration, **[click here](https://go.usa.gov/xp5R9)**. If you have further questions, please contact [Joanne Vliet](mailto:joanne.vliet@trade.gov) and/or [Doug Wallace](mailto:douglas.wallace@trae.gov).
 
 ---
 
