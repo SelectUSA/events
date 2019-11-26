@@ -20,7 +20,7 @@ published: true
 
 ### BEA's Got Your Number: The Latest FDI Statistics
 
-SelectUSA and the Bureau of Economic Analysis (BEA) will host a webinar on **December 11** at **12 p.m. EST** / **9 a.m. PST** / **5 p.m. GMT**, providing an overview of the latest foreign direct investment (FDI) data in the United States. The webinar will include highlights of the latest available statistics on FDI and positions, activities of multinational enterprises, and new FDI transactions. If you want to know how many people in the U.S. are employed by foreign-owned companies, which industries are attracting foreign direct investment (FDI) in your state, or how FDI affects the U.S. economy, this webinar is for you.
+SelectUSA and the Bureau of Economic Analysis (BEA) will host a webinar on **December 11** at **12 p.m. EST** / **9 a.m. PST** / **5 p.m. GMT**, providing an overview of the latest foreign direct investment (FDI) data in the United States. The webinar will include highlights of the latest available statistics on FDI and positions, activities of multinational enterprises, and new FDI transactions. If you want to know how many people in the U.S. are employed by foreign-owned companies, which industries are attracting FDI in your state, or how FDI affects the U.S. economy, this webinar is for you.
 
 _**[Click here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACFwivtUOU5PUTJDTEhHQ1dLV0ZFU1E4UE9OREk0Uy4u)** to register._
 
