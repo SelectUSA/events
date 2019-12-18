@@ -22,7 +22,7 @@ SelectUSA will co-host a **[seminar in San Francisco](https://go.usa.gov/xp5R9)*
 
 Registration for Select Bay Area, **$650 per participant**, includes all meetings, group transportation between and within San Francisco and San Jose, and some meals. Airfare and lodging are not included.
 
-For more information, including registration, **[click here](https://go.usa.gov/xp5R9)**. If you have further questions, please contact [Joanne Vliet](mailto:joanne.vliet@trade.gov) and/or [Doug Wallace](mailto:douglas.wallace@trae.gov).
+For more information, including registration, **[click here](https://go.usa.gov/xp5R9)**. If you have further questions, please contact [Joanne Vliet](mailto:joanne.vliet@trade.gov) and/or [Doug Wallace](mailto:douglas.wallace@trade.gov).
 
 ---
 
@@ -32,7 +32,7 @@ For more information, including registration, **[click here](https://go.usa.gov/
 
 * **10:00-10:20 a.m. PST:** _Welcome to San Francisco_ (Office of Economic and Workforce Development, City of San Francisco)
 * **10:20-10:40 a.m. PST:** _Federal Government Assistance to Foreign Investors_ (Jacqueline Vitello, Senior Investment Specialist at SelectUSA, U.S. Department of Commerce)
-* **10:40-11:10 a.m. PST:** _State of California's Foreign Investor Assitance Programs_ (California Governor's Office of Business and Economic Development)
+* **10:40-11:10 a.m. PST:** _State of California's Foreign Investor Assistance Programs_ (California Governor's Office of Business and Economic Development)
 * **11:10-11:30 a.m. PST:** Coffee Break
 * **11:30 a.m. - 12:00 p.m. PST:** _How to Set Up an Office in San Francisco_
 * **12:00-12:30 p.m. PST:** _Introduction to Bay Area Commercial Real Estate_
@@ -49,11 +49,11 @@ For more information, including registration, **[click here](https://go.usa.gov/
 * **09:30-10:00 a.m. PST:** _Incubators, Labs, Commercial and Co-working Options - Silicon Valley Office Space Landscape_ (Matthew Taylor, Sr. Vice President of Advisory & Transaction Services, CBRE)
 * **10:00-10:30 a.m. PST:** _Intellectual Property Rights Protections & Enforcement_ (Molly Kocialski, Regional Director for the Rocky Mountain Region, U.S. Patent & Trademark Office)
 * **10:30-10:45 a.m. PST:** Coffee Break & USPTO Visit
-* **10:45-11:15 a.m. PST:** _What Makes Silicon Valley Unique_ (Dr. Richard Dasher, Director of the U.S.-Asia Technology Management Center, Stanford, University)
+* **10:45-11:15 a.m. PST:** _What Makes Silicon Valley Unique_ (Dr. Richard Dasher, Director of the U.S.-Asia Technology Management Center, Stanford University)
 * **11:15-11:30 a.m. PST:** _Foreign Tech Company Success Story_
 * **11:30 a.m. - 12:00 p.m. PST:** Lunch Networking
 * **12:30-01:00 p.m. PST:** _Why Incorporation in the United States is Important: A Venture Capitalist's Perspective_ (Buddy Arnheim, Partner, Perkins Coie LLP)
-* **01:00-01:45:** _Executive Education Options in Silicon Valley_ (Gabriel Zelaya, Global Education Team Leader at the International Trade Administration, U.S. Department of Commerce)
+* **01:00-01:45:** _Executive Education Options in Silicon Valley_ (Gabriela Zelaya, Global Education Team Leader at the International Trade Administration, U.S. Department of Commerce; Dr. Robert Brancatelli, Sr. Associate Director of Santa Clara University, Silicon Valley Executive Center, and the Leavey School of Business; Lydia Chan, Manager of Business Development & External Relations, San Jose State University)
 * **01:45-02:00 p.m. PST:** Conclusion
 * **02:00-05:00 p.m. PST:** Site Visits (Co-working space, incubator, lab facility, manufacturing, and more TBA)
 
