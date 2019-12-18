@@ -53,7 +53,7 @@ For more information, including registration, **[click here](https://go.usa.gov/
 * **11:15-11:30 a.m. PST:** _Foreign Tech Company Success Story_
 * **11:30 a.m. - 12:00 p.m. PST:** Lunch Networking
 * **12:30-01:00 p.m. PST:** _Why Incorporation in the United States is Important: A Venture Capitalist's Perspective_ (Buddy Arnheim, Partner, Perkins Coie LLP)
-* **01:00-01:45:** _Executive Education Options in Silicon Valley_ (Gabriela Zelaya, Global Education Team Leader at the International Trade Administration, U.S. Department of Commerce; Dr. Robert Brancatelli, Sr. Associate Director of Santa Clara University, Silicon Valley Executive Center, and the Leavey School of Business; Lydia Chan, Manager of Business Development & External Relations, San Jose State University)
+* **01:00-01:45:** _Executive Education Options in Silicon Valley_ (Gabriela Zelaya, Global Education Team Leader at the International Trade Administration, U.S. Department of Commerce; Dr. Robert Brancatelli, Sr. Associate Director in the Silicon Valley Executive Center at the Leavey School of Business at Santa Clara University; Lydia Chan, Manager of Business Development & External Relations, San Jose State University)
 * **01:45-02:00 p.m. PST:** Conclusion
 * **02:00-05:00 p.m. PST:** Site Visits (Co-working space, incubator, lab facility, manufacturing, and more TBA)
 
