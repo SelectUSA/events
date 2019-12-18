@@ -32,7 +32,7 @@ For more information, including registration, **[click here](https://go.usa.gov/
 
 * **10:00-10:20 a.m. PST:** _Welcome to San Francisco_ (Office of Economic and Workforce Development, City of San Francisco)
 * **10:20-10:40 a.m. PST:** _Federal Government Assistance to Foreign Investors_ (Jacqueline Vitello, Senior Investment Specialist at SelectUSA, U.S. Department of Commerce)
-* **10:40-11:10 a.m. PST:** _State of California's Foreign Investor Assitance Programs_ (California Governor's Office of Business and Economic Development
+* **10:40-11:10 a.m. PST:** _State of California's Foreign Investor Assitance Programs_ (California Governor's Office of Business and Economic Development)
 * **11:10-11:30 a.m. PST:** Coffee Break
 * **11:30 a.m. - 12:00 p.m. PST:** _How to Set Up an Office in San Francisco_
 * **12:00-12:30 p.m. PST:** _Introduction to Bay Area Commercial Real Estate_
